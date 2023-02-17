@@ -3,82 +3,84 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 468.05 603.06" style="enable-background:new 0 0 468.05 603.06;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	.st1{display:inline;}
-	.st2{fill:#FFFFFF;}
-	.st3{display:inline;fill:#FFFFFF;}
-	.st4{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st5{fill:none;}
-	.st6{display:inline;fill:none;}
-	.st7{font-family:'ArialMT';}
-	.st8{font-size:35px;}
-	.st9{font-family:'Arial-BoldMT';}
-	.st10{font-size:23px;}
-	.st11{display:inline;fill:none;stroke:#000000;}
-	.st12{font-size:28px;}
-	.st13{font-size:19px;}
-	.st14{font-size:24px;}
-	.st15{display:inline;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
-	.st16{font-size:25px;}
-	.st17{font-size:48px;}
-	.st18{font-size:22px;}
-	.st19{font-size:31px;}
-	.st20{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st21{font-size:55px;}
-	.st22{font-size:27px;}
-	.st23{font-size:21px;}
-	.st24{font-size:29px;}
-	.st25{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st26{display:inline;fill:#BC1823;}
-	.st27{display:inline;fill:#129238;}
-	.st28{fill:#F3E600;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st29{fill:none;stroke:#F3E600;stroke-miterlimit:10;}
-	.st30{display:inline;fill:#E30613;}
-	.st31{display:inline;fill:#006633;}
-	.st32{font-family:'BookmanOldStyle-Bold';}
-	.st33{display:inline;fill:none;stroke:#F39200;}
-	.st34{display:inline;fill:#312783;}
-	.st35{display:inline;fill:#936037;}
-	.st36{font-family:'BrushScriptMT';}
-	.st37{display:inline;fill:none;stroke:#4688C8;}
-	.st38{font-family:'BernardMT-Condensed';}
-	.st39{display:inline;fill:#FFDE00;}
-	.st40{display:inline;fill:#EA5B0C;}
-	.st41{font-family:'ComicSansMS-Bold';}
-	.st42{display:inline;fill:#F9B233;}
-	.st43{font-family:'BritannicBold';}
-	.st44{display:inline;fill:#662483;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st45{font-family:'Algerian';}
-	.st46{display:inline;fill:#009FE3;}
-	.st47{font-family:'Apple-Chancery';}
-	.st48{display:inline;fill:#951B81;}
-	.st49{display:inline;fill:#E6007E;}
-	.st50{font-family:'BookAntiqua-Bold';}
-	.st51{display:inline;fill:#3AAA35;}
-	.st52{font-family:'ChaparralPro-Regular';}
-	.st53{display:inline;fill:none;stroke:#ED6AA0;}
-	.st54{display:inline;fill:none;stroke:#674D16;stroke-miterlimit:10;}
-	.st55{display:inline;fill:none;stroke:#BC1823;stroke-miterlimit:10;}
-	.st56{fill:#129238;}
-	.st57{fill:#FFDE00;stroke:#FFDE00;stroke-miterlimit:10;}
-	.st58{fill:none;stroke:#FFDE00;stroke-miterlimit:10;}
-	.st59{display:inline;fill:#FFED00;}
-	.st60{display:inline;stroke:#BC1823;stroke-miterlimit:10;}
-	.st61{fill:#FAB711;stroke:#FAB711;stroke-miterlimit:10;}
-	.st62{fill:none;stroke:#000000;}
-	.st63{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st64{stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st65{fill:none;stroke:#FAB711;stroke-miterlimit:10;}
-	.st66{fill:#FAB711;}
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:#FFFFFF;}
+	.st4{display:inline;fill:#FFFFFF;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st6{fill:none;}
+	.st7{display:inline;fill:none;}
+	.st8{font-family:'ArialMT';}
+	.st9{font-size:35px;}
+	.st10{font-family:'Arial-BoldMT';}
+	.st11{font-size:23px;}
+	.st12{display:inline;fill:none;stroke:#000000;}
+	.st13{font-size:28px;}
+	.st14{font-size:19px;}
+	.st15{font-size:24px;}
+	.st16{display:inline;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st17{font-size:25px;}
+	.st18{font-size:48px;}
+	.st19{font-size:22px;}
+	.st20{font-size:31px;}
+	.st21{display:inline;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st22{font-size:55px;}
+	.st23{font-size:27px;}
+	.st24{font-size:21px;}
+	.st25{font-size:29px;}
+	.st26{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st27{display:inline;fill:#BC1823;}
+	.st28{display:inline;fill:#129238;}
+	.st29{fill:#F3E600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st30{fill:none;stroke:#F3E600;stroke-miterlimit:10;}
+	.st31{display:inline;fill:#E30613;}
+	.st32{display:inline;fill:#006633;}
+	.st33{font-family:'BookmanOldStyle-Bold';}
+	.st34{display:inline;fill:none;stroke:#F39200;}
+	.st35{display:inline;fill:#312783;}
+	.st36{display:inline;fill:#936037;}
+	.st37{font-family:'BrushScriptMT';}
+	.st38{display:inline;fill:none;stroke:#4688C8;}
+	.st39{font-family:'BernardMT-Condensed';}
+	.st40{display:inline;fill:#FFDE00;}
+	.st41{display:inline;fill:#EA5B0C;}
+	.st42{font-family:'ComicSansMS-Bold';}
+	.st43{display:inline;fill:#F9B233;}
+	.st44{font-family:'BritannicBold';}
+	.st45{display:inline;fill:#662483;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st46{font-family:'Algerian';}
+	.st47{display:inline;fill:#009FE3;}
+	.st48{font-family:'Apple-Chancery';}
+	.st49{display:inline;fill:#951B81;}
+	.st50{display:inline;fill:#E6007E;}
+	.st51{font-family:'BookAntiqua-Bold';}
+	.st52{display:inline;fill:#3AAA35;}
+	.st53{font-family:'ChaparralPro-Regular';}
+	.st54{display:inline;fill:none;stroke:#ED6AA0;}
+	.st55{display:inline;fill:none;stroke:#674D16;stroke-miterlimit:10;}
+	.st56{display:inline;fill:none;stroke:#BC1823;stroke-miterlimit:10;}
+	.st57{fill:#129238;}
+	.st58{fill:#FFDE00;stroke:#FFDE00;stroke-miterlimit:10;}
+	.st59{fill:none;stroke:#FFDE00;stroke-miterlimit:10;}
+	.st60{display:inline;fill:#FFED00;}
+	.st61{display:inline;stroke:#BC1823;stroke-miterlimit:10;}
+	.st62{fill:#FAB711;stroke:#FAB711;stroke-miterlimit:10;}
+	.st63{fill:none;stroke:#000000;}
+	.st64{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st65{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st66{fill:none;stroke:#FAB711;stroke-miterlimit:10;}
+	.st67{fill:#FAB711;}
 </style>
-<g id="Calque_1" class="st0">
+<g id="Calque_1">
+	<rect x="-7.95" y="-9.07" class="st0" width="484.92" height="623.16"/>
 </g>
-<g id="noir_et_blanc_1_" class="st0">
-	<path class="st1" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
+<g id="noir_et_blanc_1_" class="st1">
+	<path class="st2" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
 		s-33.67,1.58-35,7.58c-1.33,6,30.67,18.67,84.67,18.67c54,0,96.33-5.33,97.17-11.33C-107.03,552.54-133.7,553.46-150.37,542.13z"/>
-	<path class="st1" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st2" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<g id="Calque_4" class="st1">
+	<g id="Calque_4" class="st2">
 		<g>
 			<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 				c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
@@ -86,1283 +88,1283 @@
 			<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 		</g>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_1_x5F__1_" class="st5" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_1_x5F__1_" class="st6" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99l24.18,24.3L-315.95,171.47z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_1_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st3" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L-348.79,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st1 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st15 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st2 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st16 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-212.41,520.65-207.12,513.64-207.8,513.03z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g id="Calque_5" class="st1">
+	<g id="Calque_5" class="st2">
 		<g>
-			<path class="st4" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+			<path class="st5" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 				 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 				c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 		</g>
 		<g>
-			<path class="st4" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+			<path class="st5" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 				 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 				c2.12,4.48,4.62,8.74,7.44,12.75"/>
 		</g>
 		<g>
-			<path class="st4" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+			<path class="st5" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 				 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 				c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 		</g>
 	</g>
 </g>
-<g id="noir_et_blanc" class="st0">
-	<path class="st1" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+<g id="noir_et_blanc" class="st1">
+	<path class="st2" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_2_x5F__1_" class="st5" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_2_x5F__1_" class="st6" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-28.87-0.37l15.74,22.68L188.79,128.81z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_2_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st3" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<g class="st1">
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<g class="st2">
 		<path d="M363.37,554.65c-16.67-12.6-41.33-30.66-42-42.51V296.9h-16v215.24c-10,17.78-32,41.95-46.33,44.18
 			c-14.33,2.22-33.67,1.76-35,8.43c-1.33,6.67,30.67,20.75,84.67,20.75s96.33-5.93,97.17-12.6
 			C406.7,566.23,380.03,567.24,363.37,554.65z"/>
-		<path class="st2" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
+		<path class="st3" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
 			c0.68,0.68,7.08-5.99,14.29-14.91C301.33,530.77,306.62,522.99,305.93,522.31z"/>
-		<path class="st2" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+		<path class="st3" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 			C309.51,314.13,308.48,355.62,308.48,408.41z"/>
 	</g>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st4" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st5" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st5" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<path class="st1" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<path class="st2" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
 		s-33.67,1.58-35,7.58c-1.33,6,30.67,18.67,84.67,18.67c54,0,96.33-5.33,97.17-11.33C-107.03,552.54-133.7,553.46-150.37,542.13z"/>
-	<path class="st1" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st2" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_3_x5F__1_" class="st5" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_3_x5F__1_" class="st6" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99l24.18,24.3L-315.95,171.47z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_3_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M164.98,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st3" d="M164.98,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L164.98,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st1 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st15 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st2 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st16 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-212.41,520.65-207.12,513.64-207.8,513.03z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st4" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st5" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st5" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st1" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+	<path class="st2" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M172,112.02l-7.93-10.48V90.48h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st3" d="M172,112.02l-7.93-10.48V90.48h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.85-1.7L172,112.02z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<g class="st1">
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<g class="st2">
 		<path d="M363.37,554.65c-16.67-12.6-41.33-30.66-42-42.51V296.9h-16v215.24c-10,17.78-32,41.95-46.33,44.18
 			c-14.33,2.22-33.67,1.76-35,8.43c-1.33,6.67,30.67,20.75,84.67,20.75s96.33-5.93,97.17-12.6
 			C406.7,566.23,380.03,567.24,363.37,554.65z"/>
-		<path class="st2" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
+		<path class="st3" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
 			c0.68,0.68,7.08-5.99,14.29-14.91C301.33,530.77,306.62,522.99,305.93,522.31z"/>
-		<path class="st2" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+		<path class="st3" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 			C309.51,314.13,308.48,355.62,308.48,408.41z"/>
 	</g>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st4" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st5" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st5" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
-		<path id="SVGID_x5F_4_x5F__1_" class="st5" d="M190.64,129.15c-5.55,3.2-11.92,5.17-18.76,5.52
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
+		<path id="SVGID_x5F_4_x5F__1_" class="st6" d="M190.64,129.15c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99l24.18,24.3L190.64,129.15z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_4_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
 </g>
-<g id="Calque_7" class="st0">
-	<path class="st26" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
+<g id="Calque_7" class="st1">
+	<path class="st27" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
 		s-33.67,1.58-35,7.58c-1.33,6,30.67,18.67,84.67,18.67c54,0,96.33-5.33,97.17-11.33C-107.03,552.54-133.7,553.46-150.37,542.13z"/>
-	<path class="st27" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st28" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_5_x5F__1_" class="st5" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_5_x5F__1_" class="st6" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99l24.18,24.3L-315.95,171.47z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_5_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st28" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st29" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L-348.79,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st30 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.7002)" class="st31 st32 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st33 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st34 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st35 st36 st19">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st25 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st37 st38 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st39 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 215.7095)" class="st40 st41 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st42 st43 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st44 st45 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st46 st47 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st48 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st49 st50 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st51 st52 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st53 st7 st24">reggae</text>
-	<path class="st3" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st31 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.7002)" class="st32 st33 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st34 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st35 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st36 st37 st20">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st26 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st38 st39 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st40 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 215.7095)" class="st41 st42 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st43 st44 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st45 st46 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st47 st48 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st49 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st50 st51 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st52 st53 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st54 st8 st25">reggae</text>
+	<path class="st4" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-212.41,520.65-207.12,513.64-207.8,513.03z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st29" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st30" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st30" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st30" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_6_x5F__1_" class="st5" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_6_x5F__1_" class="st6" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-28.87-0.37l15.74,22.68L188.79,128.81z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_6_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st28" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st29" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st30 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.044)" class="st31 st32 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st33 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st34 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st35 st36 st19">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st25 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st37 st38 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st39 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 173.0533)" class="st40 st41 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st42 st43 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st44 st45 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st46 st47 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st48 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st49 st50 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st51 st52 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st53 st7 st24">reggae</text>
-	<path class="st26" d="M363.37,554.65c-16.67-12.6-41.33-30.66-42-42.51V296.9h-16v215.24c-10,17.78-32,41.95-46.33,44.18
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st31 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.044)" class="st32 st33 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st34 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st35 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st36 st37 st20">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st26 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st38 st39 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st40 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 173.0533)" class="st41 st42 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st43 st44 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st45 st46 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st47 st48 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st49 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st50 st51 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st52 st53 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st54 st8 st25">reggae</text>
+	<path class="st27" d="M363.37,554.65c-16.67-12.6-41.33-30.66-42-42.51V296.9h-16v215.24c-10,17.78-32,41.95-46.33,44.18
 		c-14.33,2.22-33.67,1.76-35,8.43c-1.33,6.67,30.67,20.75,84.67,20.75s96.33-5.93,97.17-12.6
 		C406.7,566.23,380.03,567.24,363.37,554.65z"/>
-	<path class="st3" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
+	<path class="st4" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
 		c0.68,0.68,7.08-5.99,14.29-14.91C301.33,530.77,306.62,522.99,305.93,522.31z"/>
-	<path class="st3" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<path class="st4" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.51,314.13,308.48,355.62,308.48,408.41z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st29" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st30" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st30" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st30" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st54" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st54" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st55" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st55" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
-		<path class="st56" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52
+	<path class="st55" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st55" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st56" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st56" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
+		<path class="st57" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52
 			C437.35-3.2,450.06-8.49,458.9-3.32C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-		<path class="st2" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+		<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 			c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
 	</g>
 </g>
-<g id="Calque_8" class="st0">
-	<path class="st1" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+<g id="Calque_8" class="st1">
+	<path class="st2" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_7_x5F__1_" class="st5" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_7_x5F__1_" class="st6" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-28.87-0.37l15.74,22.68L188.79,128.81z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_7_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st3" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<g class="st1">
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<g class="st2">
 		<path d="M363.37,554.65c-16.67-12.6-41.33-30.66-42-42.51V296.9h-16v215.24c-10,17.78-32,41.95-46.33,44.18
 			c-14.33,2.22-33.67,1.76-35,8.43c-1.33,6.67,30.67,20.75,84.67,20.75s96.33-5.93,97.17-12.6
 			C406.7,566.23,380.03,567.24,363.37,554.65z"/>
-		<path class="st2" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
+		<path class="st3" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
 			c0.68,0.68,7.08-5.99,14.29-14.91C301.33,530.77,306.62,522.99,305.93,522.31z"/>
-		<path class="st2" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+		<path class="st3" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 			C309.51,314.13,308.48,355.62,308.48,408.41z"/>
 	</g>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st4" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st5" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st5" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<path class="st1" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<path class="st2" d="M-150.37,542.13c-16.67-11.33-41.33-27.58-42-38.25V310.21h-16v193.67c-10,16-32,37.75-46.33,39.75
 		s-33.67,1.58-35,7.58c-1.33,6,30.67,18.67,84.67,18.67c54,0,96.33-5.33,97.17-11.33C-107.03,552.54-133.7,553.46-150.37,542.13z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path class="st57" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st58" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L-348.79,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st1 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st15 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st2 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st16 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-212.41,520.65-207.12,513.64-207.8,513.03z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st58" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st59" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st59" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st59" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_8_x5F__1_" class="st5" d="M193.22,136.51c-6.73,3.88-14.46,6.27-22.75,6.69
+	<g class="st2">
+		<path id="SVGID_x5F_8_x5F__1_" class="st6" d="M193.22,136.51c-6.73,3.88-14.46,6.27-22.75,6.69
 			c-27.97,1.41-51.79-20.12-53.2-48.09c-1.41-27.97,20.12-51.79,48.09-53.2c27.97-1.41,51.79,20.12,53.2,48.09
 			c0,0.06,0.01,3.16,0.01,0.78l-22.43,0.12l-34.99-0.45l19.08,27.49L193.22,136.51z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_8_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10; font-size:64.2533px; letter-spacing:-152;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10" style="font-size:64.2533px; letter-spacing:-152;">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st57" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st58" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<g class="st1">
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<g class="st2">
 		<path d="M363.37,554.65c-16.67-12.6-41.33-30.66-42-42.51V296.9h-16v215.24c-10,17.78-32,41.95-46.33,44.18
 			c-14.33,2.22-33.67,1.76-35,8.43c-1.33,6.67,30.67,20.75,84.67,20.75s96.33-5.93,97.17-12.6
 			C406.7,566.23,380.03,567.24,363.37,554.65z"/>
-		<path class="st2" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
+		<path class="st3" d="M305.93,522.31c-0.68-0.68-7.08,6-14.29,14.91c-7.21,8.92-12.5,16.7-11.82,17.38
 			c0.68,0.68,7.08-5.99,14.29-14.91C301.33,530.77,306.62,522.99,305.93,522.31z"/>
-		<path class="st2" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+		<path class="st3" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 			C309.51,314.13,308.48,355.62,308.48,408.41z"/>
 	</g>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st58" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st59" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st59" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st59" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
-		<path id="SVGID_x5F_9_x5F__1_" class="st5" d="M-311.5,177.52c-6.73,3.88-14.46,6.27-22.75,6.69
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
+		<path id="SVGID_x5F_9_x5F__1_" class="st6" d="M-311.5,177.52c-6.73,3.88-14.46,6.27-22.75,6.69
 			c-27.97,1.41-51.79-20.12-53.2-48.09c-1.41-27.97,20.12-51.79,48.09-53.2c27.97-1.41,51.79,20.12,53.2,48.09
 			c0,0.06,0.01,3.16,0.01,0.78l-22.43,0.12l-34.99-0.45l19.08,27.49L-311.5,177.52z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_9_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10; font-size:64.2533px; letter-spacing:-152;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10" style="font-size:64.2533px; letter-spacing:-152;">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<path class="st59" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st60" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st59" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st60" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
 </g>
-<g id="Calque_9" class="st0">
-	<path class="st1" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+<g id="Calque_9" class="st1">
+	<path class="st2" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_10_x5F__1_" class="st5" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
+	<g class="st2">
+		<path id="SVGID_x5F_10_x5F__1_" class="st6" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52
 			c-23.07,1.16-42.72-16.6-43.88-39.67c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67
 			c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-28.87-0.37l15.74,22.68L188.79,128.81z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_10_x5F__1_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st3" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st4" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st5" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st5" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path class="st57" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st58" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L-348.79,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st1 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st25 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M-202.8,524.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st2 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st26 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M-202.8,524.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-207.41,531.65-202.12,524.64-202.8,524.03z"/>
-	<path class="st3" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-199.22,336.71-200.25,374.05-200.25,421.54z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st58" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st59" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st59" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st59" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_11_x5F__1_" class="st5" d="M193.22,136.51c-6.73,3.88-14.46,6.27-22.75,6.69
+	<g class="st2">
+		<path id="SVGID_x5F_11_x5F__1_" class="st6" d="M193.22,136.51c-6.73,3.88-14.46,6.27-22.75,6.69
 			c-27.97,1.41-51.79-20.12-53.2-48.09c-1.41-27.97,20.12-51.79,48.09-53.2c27.97-1.41,51.79,20.12,53.2,48.09
 			c0,0.06,0.01,3.16,0.01,0.78l-22.43,0.12l-34.99-0.45l19.08,27.49L193.22,136.51z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_11_x5F__1_" startOffset="2825.1572%">
-<tspan  class="st9 st17" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10; letter-spacing:1;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st18" style="letter-spacing:1;">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st57" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st58" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st58" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st59" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st59" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st58" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st59" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
-		<path id="SVGID_x5F_12_x5F_" class="st5" d="M-311.5,177.52c-6.73,3.88-14.46,6.27-22.75,6.69c-27.97,1.41-51.79-20.12-53.2-48.09
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
+		<path id="SVGID_x5F_12_x5F_" class="st6" d="M-311.5,177.52c-6.73,3.88-14.46,6.27-22.75,6.69c-27.97,1.41-51.79-20.12-53.2-48.09
 			c-1.41-27.97,20.12-51.79,48.09-53.2c27.97-1.41,51.79,20.12,53.2,48.09c0,0.06,0.01,3.16,0.01,0.78l-22.43,0.12l-34.99-0.45
 			l19.08,27.49L-311.5,177.52z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_12_x5F_" startOffset="2032.0773%">
-<tspan  class="st9" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10; font-size:53px; letter-spacing:1;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10" style="font-size:53px; letter-spacing:1;">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<path class="st59" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st60" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st59" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st60" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<polygon class="st1" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
-	<polygon class="st3" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
-	<polygon class="st1" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
-	<path class="st3" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
+	<polygon class="st4" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
+	<polygon class="st2" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
+	<path class="st4" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.21,314.13,308.18,355.62,308.18,408.41z"/>
-	<polygon class="st1" points="-65.18,500.97 -237.55,566.87 -274.41,493.11 	"/>
-	<polygon class="st3" points="-106.12,508.4 -229.25,555.47 -255.57,502.78 	"/>
-	<polygon class="st1" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
-	<path class="st3" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="-65.18,500.97 -237.55,566.87 -274.41,493.11 	"/>
+	<polygon class="st4" points="-106.12,508.4 -229.25,555.47 -255.57,502.78 	"/>
+	<polygon class="st2" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
+	<path class="st4" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C-205.79,325.13-206.82,366.62-206.82,419.41z"/>
 </g>
-<g id="Calque_10" class="st0">
-	<path class="st3" d="M-202.8,524.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+<g id="Calque_10" class="st1">
+	<path class="st4" d="M-202.8,524.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-207.41,531.65-202.12,524.64-202.8,524.03z"/>
-	<path class="st3" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-199.22,336.71-200.25,374.05-200.25,421.54z"/>
-	<polygon class="st1" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
-	<polygon class="st3" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
-	<polygon class="st1" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
-	<path class="st3" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
+	<polygon class="st4" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
+	<polygon class="st2" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
+	<path class="st4" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.21,314.13,308.18,355.62,308.18,408.41z"/>
-	<polygon class="st1" points="-333.64,534.66 -157.45,479.79 -125.33,555.74 	"/>
-	<polygon class="st3" points="-292.31,529.83 -166.46,490.64 -143.52,544.89 	"/>
-	<polygon class="st1" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
-	<path class="st3" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="-333.64,534.66 -157.45,479.79 -125.33,555.74 	"/>
+	<polygon class="st4" points="-292.31,529.83 -166.46,490.64 -143.52,544.89 	"/>
+	<polygon class="st2" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
+	<path class="st4" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C-205.79,325.13-206.82,366.62-206.82,419.41z"/>
-	<path class="st1" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st2" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_13_x5F_" class="st5" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
+	<g class="st2">
+		<path id="SVGID_x5F_13_x5F_" class="st6" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
 			c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99
 			l24.18,24.3L-315.95,171.47z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_13_x5F_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st3" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L-348.79,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st1 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st15 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st2 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st16 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-212.41,520.65-207.12,513.64-207.8,513.03z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st4" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st5" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st5" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st1" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+	<path class="st2" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_14_x5F_" class="st5" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
+	<g class="st2">
+		<path id="SVGID_x5F_14_x5F_" class="st6" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
 			c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-28.87-0.37
 			l15.74,22.68L188.79,128.81z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_14_x5F_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st3" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st4" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st5" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st5" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<path class="st1" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<path class="st2" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_15_x5F_" class="st5" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
+	<g class="st2">
+		<path id="SVGID_x5F_15_x5F_" class="st6" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
 			c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99
 			l24.18,24.3L-315.95,171.47z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_15_x5F_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M164.98,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st3" d="M164.98,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L164.98,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st1 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st15 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st2 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.6773)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st16 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 213.7095)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M-207.8,513.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-212.41,520.65-207.12,513.64-207.8,513.03z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st4" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st5" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st5" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st1" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
+	<path class="st2" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52C437.35-3.2,450.06-8.49,458.9-3.32
 		C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path class="st2" d="M172,112.02l-7.93-10.48V90.48h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st3" d="M172,112.02l-7.93-10.48V90.48h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.85-1.7L172,112.02z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st1 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st1 st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st11 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st1 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st1 st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st15 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st11 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st1 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st1 st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st1 st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st20 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st1 st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st1 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st1 st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st1 st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st11 st7 st24">reggae</text>
-	<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st2 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.021)" class="st2 st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st12 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st2 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st2 st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st16 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st12 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st2 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 171.0533)" class="st2 st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st2 st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st21 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st2 st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st2 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st2 st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st2 st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st12 st8 st25">reggae</text>
+	<path class="st4" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 		c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st4" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st5" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st5" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st4" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st5" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st25" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st25" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st25" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st25" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
-		<path id="SVGID_x5F_16_x5F_" class="st5" d="M190.64,129.15c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
+	<path class="st26" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st26" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st26" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st26" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
+		<path id="SVGID_x5F_16_x5F_" class="st6" d="M190.64,129.15c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
 			c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99
 			l24.18,24.3L190.64,129.15z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_16_x5F_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<path class="st3" d="M-202.8,524.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<path class="st4" d="M-202.8,524.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C-207.41,531.65-202.12,524.64-202.8,524.03z"/>
-	<path class="st3" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-199.22,336.71-200.25,374.05-200.25,421.54z"/>
-	<polygon class="st1" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
-	<polygon class="st3" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
-	<polygon class="st1" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
-	<path class="st3" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
+	<polygon class="st4" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
+	<polygon class="st2" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
+	<path class="st4" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.21,314.13,308.18,355.62,308.18,408.41z"/>
-	<polygon class="st1" points="-333.64,534.66 -157.45,479.79 -125.33,555.74 	"/>
-	<polygon class="st3" points="-292.31,529.83 -166.46,490.64 -143.52,544.89 	"/>
-	<polygon class="st1" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
-	<path class="st3" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="-333.64,534.66 -157.45,479.79 -125.33,555.74 	"/>
+	<polygon class="st4" points="-292.31,529.83 -166.46,490.64 -143.52,544.89 	"/>
+	<polygon class="st2" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
+	<path class="st4" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C-205.79,325.13-206.82,366.62-206.82,419.41z"/>
 </g>
-<g id="Calque_11" class="st0">
-	<g class="st1">
+<g id="Calque_11" class="st1">
+	<g class="st2">
 		<polygon points="-125.37,555.66 -157.45,479.79 -333.64,534.66 -333.64,580.21 -125.33,601.21 -125.33,555.66 		"/>
 		<polygon points="-333.64,534.66 -157.45,479.79 -125.33,555.74 		"/>
-		<polygon class="st2" points="-292.31,529.83 -166.46,490.64 -143.52,544.89 		"/>
-		<line class="st4" x1="-333.64" y1="534.66" x2="-125.33" y2="555.66"/>
+		<polygon class="st3" points="-292.31,529.83 -166.46,490.64 -143.52,544.89 		"/>
+		<line class="st5" x1="-333.64" y1="534.66" x2="-125.33" y2="555.66"/>
 	</g>
-	<path class="st3" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-199.22,336.71-200.25,374.05-200.25,421.54z"/>
-	<polygon class="st1" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
-	<polygon class="st3" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
-	<polygon class="st1" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
-	<path class="st3" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
+	<polygon class="st4" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
+	<polygon class="st2" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
+	<path class="st4" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.21,314.13,308.18,355.62,308.18,408.41z"/>
-	<polygon class="st1" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
-	<path class="st3" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
+	<path class="st4" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C-205.79,325.13-206.82,366.62-206.82,419.41z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st4" d="M-200.25,421.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-199.22,336.71-200.25,374.05-200.25,421.54z"/>
-	<polygon class="st1" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
-	<polygon class="st3" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
-	<polygon class="st1" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
-	<path class="st3" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st2" points="181.36,523.66 357.55,468.79 389.67,544.74 	"/>
+	<polygon class="st4" points="222.69,518.83 348.54,479.64 371.48,533.89 	"/>
+	<polygon class="st2" points="343.87,518.21 275.77,512.88 305.07,497.88 305.07,296.9 321.07,296.9 321.07,497.71 	"/>
+	<path class="st4" d="M308.18,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.21,314.13,308.18,355.62,308.18,408.41z"/>
-	<polygon class="st60" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
-	<path class="st3" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<polygon class="st61" points="-171.13,529.21 -239.23,523.88 -209.93,508.88 -209.93,307.9 -193.93,307.9 -193.93,508.71 	"/>
+	<path class="st4" d="M-206.82,419.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C-205.79,325.13-206.82,366.62-206.82,419.41z"/>
-	<path class="st27" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st28" d="M-42.2,69.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C-36.99,44.5-35.37,58.17-42.2,69.86z"/>
-	<g class="st1">
+	<g class="st2">
 		<path d="M-231.98,130.92c-2.92-57.9-52.22-102.47-110.12-99.55c-57.9,2.92-102.47,52.22-99.55,110.12
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,33.16-5.81,47.09-13.84l-26.9-38.44l-39.51-56.91l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C-231.97,131.74-231.98,130.96-231.98,130.92z"/>
 		<path d="M-231.96,132.54L-231.96,132.54C-233.29,130.88-231.96,132.54-231.96,132.54z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_17_x5F_" class="st5" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
+	<g class="st2">
+		<path id="SVGID_x5F_17_x5F_" class="st6" d="M-315.95,171.47c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
 			c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-37.3-1.99
 			l24.18,24.3L-315.95,171.47z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_17_x5F_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st28" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+	<g class="st2">
+		<path class="st29" d="M-348.79,132.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L-348.79,132.17z"/>
 	</g>
-	<rect x="-327.79" y="135.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st30 st7 st8">rock</text>
-	<rect x="-257.79" y="141.21" class="st6" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 -257.7949 157.7002)" class="st31 st32 st10">pop</text>
-	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st33 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st34 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st35 st36 st19">blues</text>
-	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st25 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st37 st38 st17">funk</text>
-	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st39 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 -243.7949 215.7095)" class="st40 st41 st18">techno</text>
-	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st42 st43 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st44 st45 st21">indie</text>
-	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st46 st47 st22">disco</text>
-	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st48 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st49 st50 st23">soul</text>
-	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st51 st52 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st53 st7 st24">reggae</text>
-	<path class="st3" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<rect x="-327.79" y="135.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -327.7949 160.2691)" class="st31 st8 st9">rock</text>
+	<rect x="-257.79" y="141.21" class="st7" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 -257.7949 157.7002)" class="st32 st33 st11">pop</text>
+	<text transform="matrix(1 0 0 1 -214.7949 154.2095)" class="st34 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 -122.7302 146.206)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 -39.8203 39.6135)" class="st35 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 -114.2949 154.2095)" class="st36 st37 st20">blues</text>
+	<text transform="matrix(1 0 0 1 -257.7949 257.2095)" class="st26 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 -306.0909 196.1531)" class="st38 st39 st18">funk</text>
+	<text transform="matrix(1 0 0 1 -289.2949 213.7095)" class="st40 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 -243.7949 215.7095)" class="st41 st42 st19">techno</text>
+	<text transform="matrix(1 0 0 1 -240.2949 282.8496)" class="st43 st44 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 -198.7949 195.1299)" class="st45 st46 st22">indie</text>
+	<text transform="matrix(1 0 0 1 -166.2109 217.8496)" class="st47 st48 st23">disco</text>
+	<text transform="matrix(1 0 0 1 -178.7949 264.3496)" class="st49 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 -222.7949 304.2095)" class="st50 st51 st24">soul</text>
+	<text transform="matrix(1 0 0 1 -273.2949 236.2095)" class="st52 st53 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 -199.7949 241.7095)" class="st54 st8 st25">reggae</text>
+	<path class="st4" d="M-205.25,410.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C-204.22,325.71-205.25,363.05-205.25,410.54z"/>
-	<path class="st3" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st4" d="M-68.29,47.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C-55.51,38.81-62.86,41.45-68.29,47.21z"/>
-	<path class="st3" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M-371.58,71.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C-345.8,62.87-359.16,64.65-371.58,71.88z"/>
-	<path class="st3" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M-333.77,212.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C-360.71,207.71-348.13,212.54-333.77,212.14z"/>
-	<g class="st1">
-		<path class="st29" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
+	<g class="st2">
+		<path class="st30" d="M-340.96,44.36c-38.05,1.92-69.52,26.69-81.8,60.36 M-307.36,48.9c-3.02-1-6.11-1.85-9.25-2.54
 			 M-263.39,80.18c-11.12-14.45-26.41-25.45-43.97-31.28 M-374.38,219.96c12.96,5.9,27.48,8.87,42.68,8.1 M-395.21,206.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M-428.18,140.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st30" d="M-399.41,76.55c-15.71,16.62-24.88,39.38-23.63,64.03 M-318.78,51.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M-252.47,113.64c-7.65-28.53-29.38-51.01-56.95-60 M-407.38,186.14c12.99,18.45,32.94,31.52,55.83,35.57 M-414.82,173.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
+	<g class="st2">
+		<path class="st30" d="M-406.64,97.33c-7.02,12.67-10.7,27.39-9.92,42.92 M-340.38,55.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M-282.66,76.45c-8.23-7.39-17.97-13.09-28.68-16.6 M-398.13,187.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M-402.36,181.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<g class="st1">
+	<g class="st2">
 		<path d="M272.76,88.27c-2.92-57.9-52.22-102.47-110.12-99.55C104.73-8.37,60.16,40.94,63.08,98.84
 			c2.92,57.9,52.22,102.47,110.12,99.55c17.16-0.87,34.94-6.46,48.87-14.49l-27.32-38.22L153.89,89.2l72.44,0.94l37.61-0.2v-0.38
 			v0.38l8.82-0.05C272.76,89.08,272.76,88.31,272.76,88.27z"/>
 		<path d="M272.77,89.89L272.77,89.89C271.44,88.22,272.77,89.89,272.77,89.89z"/>
 	</g>
-	<g class="st1">
-		<path id="SVGID_x5F_18_x5F_" class="st5" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
+	<g class="st2">
+		<path id="SVGID_x5F_18_x5F_" class="st6" d="M188.79,128.81c-5.55,3.2-11.92,5.17-18.76,5.52c-23.07,1.16-42.72-16.6-43.88-39.67
 			c-1.16-23.07,16.6-42.72,39.67-43.88c23.07-1.16,42.72,16.6,43.88,39.67c0,0.05,0.01,2.61,0.01,0.64l-18.5,0.1l-28.87-0.37
 			l15.74,22.68L188.79,128.81z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_18_x5F_" startOffset="14.3674%">
-<tspan  class="st9 st8" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10 st9">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<g class="st1">
-		<path class="st28" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
+	<g class="st2">
+		<path class="st29" d="M170.16,111.68l-7.93-10.48V90.15h23.48h14.43c0,1.52,0,0.82,0,0.78c-0.9-17.79-16.05-31.49-33.84-30.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.05,31.49,33.84,30.59c5.27-0.27,7.71-1.19,8.86-1.7L170.16,111.68z"/>
 	</g>
-	<rect x="176.94" y="92.55" class="st6" width="70" height="32.26"/>
-	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st30 st7 st8">rock</text>
-	<rect x="246.94" y="98.55" class="st6" width="46.28" height="26.26"/>
-	<text transform="matrix(1 0 0 1 246.9385 115.044)" class="st31 st32 st10">pop</text>
-	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st33 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st1 st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st34 st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st35 st36 st19">blues</text>
-	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st25 st9 st16">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st37 st38 st17">funk</text>
-	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st39 st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 260.9385 173.0533)" class="st40 st41 st18">techno</text>
-	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st42 st43 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st44 st45 st21">indie</text>
-	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st46 st47 st22">disco</text>
-	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st48 st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st49 st50 st23">soul</text>
-	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st51 st52 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st53 st7 st24">reggae</text>
-	<path class="st3" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<rect x="176.94" y="92.55" class="st7" width="70" height="32.26"/>
+	<text transform="matrix(1 0 0 1 176.9385 117.6128)" class="st31 st8 st9">rock</text>
+	<rect x="246.94" y="98.55" class="st7" width="46.28" height="26.26"/>
+	<text transform="matrix(1 0 0 1 246.9385 115.044)" class="st32 st33 st11">pop</text>
+	<text transform="matrix(1 0 0 1 291.9385 111.5533)" class="st34 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 382.0022 103.5497)" class="st2 st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 467.7598 -3.0427)" class="st35 st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 390.4385 111.5533)" class="st36 st37 st20">blues</text>
+	<text transform="matrix(1 0 0 1 258.9385 225.5533)" class="st26 st10 st17">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 200.6425 153.4969)" class="st38 st39 st18">funk</text>
+	<text transform="matrix(1 0 0 1 215.4385 171.0533)" class="st40 st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 260.9385 173.0533)" class="st41 st42 st19">techno</text>
+	<text transform="matrix(1 0 0 1 275.7705 253.8604)" class="st43 st44 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 302.9385 153.4737)" class="st45 st46 st22">indie</text>
+	<text transform="matrix(1 0 0 1 338.5225 175.1934)" class="st47 st48 st23">disco</text>
+	<text transform="matrix(1 0 0 1 325.9385 227.6934)" class="st49 st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 293.2227 276.8872)" class="st50 st51 st24">soul</text>
+	<text transform="matrix(1 0 0 1 230.4385 193.5533)" class="st52 st53 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 301.9385 199.0533)" class="st54 st8 st25">reggae</text>
+	<path class="st4" d="M308.48,408.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C309.51,314.13,308.48,355.62,308.48,408.41z"/>
-	<path class="st3" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st4" d="M133.15,29.22c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C158.93,20.22,145.57,22,133.15,29.22z"/>
-	<path class="st3" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st4" d="M170.97,169.48c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C144.02,165.05,156.6,169.88,170.97,169.48z"/>
-	<g class="st1">
-		<path class="st29" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
+	<g class="st2">
+		<path class="st30" d="M163.78,1.7c-38.05,1.92-69.52,26.69-81.8,60.36 M197.38,6.24c-3.02-1-6.11-1.85-9.25-2.54 M241.34,37.53
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M130.36,177.3c12.96,5.9,27.48,8.87,42.68,8.1 M109.52,164.19
 			c6.3,5.25,13.3,9.67,20.84,13.11 M76.56,98.18c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
+	<g class="st2">
+		<path class="st30" d="M105.32,33.89C89.61,50.51,80.45,73.28,81.69,97.92 M185.95,8.5c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M252.26,70.98c-7.65-28.53-29.38-51.01-56.95-60 M97.36,143.48c12.99,18.45,32.94,31.52,55.83,35.57 M89.92,130.73
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
-	<g class="st1">
-		<path class="st29" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
+	<g class="st2">
+		<path class="st30" d="M98.1,54.68c-7.02,12.67-10.7,27.39-9.92,42.92 M164.36,13.33C135.58,14.78,111.1,31.2,98.1,54.68
 			 M222.08,33.8c-8.23-7.39-17.97-13.09-28.68-16.6 M106.61,144.88c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M102.38,139.32c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
-	<path class="st54" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
-	<path class="st54" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
-	<polyline class="st55" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
-	<polyline class="st55" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
-	<g class="st1">
-		<path class="st56" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52
+	<path class="st55" d="M371.46,93.61L481.13-41.65c0,0,1.43,6.89,24.43,1.89L395.89,95.5"/>
+	<path class="st55" d="M481.13-41.65c4.76-5.11,27.94-2.45,24.43,1.89"/>
+	<polyline class="st56" points="305.37,296.9 162.22,101.2 162.22,90.15 372.47,90.15 	"/>
+	<polyline class="st56" points="321.37,296.9 463.37,101.2 463.37,90.15 400.23,90.15 	"/>
+	<g class="st2">
+		<path class="st57" d="M462.53,27.2C455.7,38.89,443,44.18,434.16,39.01s-10.47-18.83-3.63-30.52
 			C437.35-3.2,450.06-8.49,458.9-3.32C467.74,1.85,469.37,15.51,462.53,27.2z"/>
-		<path class="st2" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
+		<path class="st3" d="M436.39,4.62c-5.21,5.96-6.86,12.31-6.05,13.02c0.81,0.71,2.96-4.69,8.17-10.65
 			c5.21-5.96,11.51-10.22,10.7-10.93C448.41-4.64,441.61-1.34,436.39,4.62z"/>
 	</g>
 </g>
@@ -1374,67 +1376,67 @@
 		<path d="M235.04,150.54L235.04,150.54C233.71,148.88,235.04,150.54,235.04,150.54z"/>
 	</g>
 	<g>
-		<path class="st61" d="M118.21,150.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
+		<path class="st62" d="M118.21,150.17l44.2,0.25c0,1.52,0-1.46,0-1.5c-0.9-17.79-16.05-30.49-33.84-29.59
 			c-17.79,0.9-31.49,16.05-30.59,33.84c0.9,17.79,16.07,31.86,33.84,30.59c4.46-0.32,5.8-0.42,7.09-1.15L118.21,150.17z"/>
 	</g>
-	<rect x="139.21" y="153.21" class="st5" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 139.2051 178.2691)" class="st7 st8">rock</text>
-	<rect x="209.21" y="159.21" class="st5" width="84" height="28"/>
-	<text transform="matrix(1 0 0 1 209.2051 175.6773)" class="st9 st10">pop</text>
-	<text transform="matrix(1 0 0 1 252.2051 172.2095)" class="st62 st7 st12">electro</text>
-	<text transform="matrix(0.6332 -0.774 0.774 0.6332 344.2698 164.206)" class="st7 st13">classique</text>
-	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 427.1797 57.6135)" class="st7 st13">jazz</text>
-	<text transform="matrix(1 0 0 1 352.7051 172.2095)" class="st7 st14">blues</text>
-	<text transform="matrix(1 0 0 1 209.2051 275.2095)" class="st63 st9 st18">punk</text>
-	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 160.9091 214.1531)" class="st62 st7 st17">funk</text>
-	<text transform="matrix(1 0 0 1 177.7051 231.7095)" class="st9 st18">rap</text>
-	<text transform="matrix(1 0 0 1 223.2051 231.7095)" class="st7 st18">techno</text>
-	<text transform="matrix(1 0 0 1 226.7051 300.8496)" class="st7 st19">k-pop</text>
-	<text transform="matrix(1 0 0 1 268.2051 213.1299)" class="st64 st9 st21">indie</text>
-	<text transform="matrix(1 0 0 1 300.7891 235.8496)" class="st9 st22">disco</text>
-	<text transform="matrix(1 0 0 1 288.2051 282.3496)" class="st9 st10">folk</text>
-	<text transform="matrix(1 0 0 1 244.2051 322.2095)" class="st9 st23">soul</text>
-	<text transform="matrix(1 0 0 1 193.7051 254.2095)" class="st7 st10">hiphop</text>
-	<text transform="matrix(1 0 0 1 267.2051 259.7095)" class="st62 st7 st24">reggae</text>
-	<path class="st2" d="M264.2,542.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
+	<rect x="139.21" y="153.21" class="st6" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 139.2051 178.2691)" class="st8 st9">rock</text>
+	<rect x="209.21" y="159.21" class="st6" width="84" height="28"/>
+	<text transform="matrix(1 0 0 1 209.2051 175.6773)" class="st10 st11">pop</text>
+	<text transform="matrix(1 0 0 1 252.2051 172.2095)" class="st63 st8 st13">electro</text>
+	<text transform="matrix(0.6332 -0.774 0.774 0.6332 344.2698 164.206)" class="st8 st14">classique</text>
+	<text transform="matrix(0.6433 -0.7656 0.7656 0.6433 427.1797 57.6135)" class="st8 st14">jazz</text>
+	<text transform="matrix(1 0 0 1 352.7051 172.2095)" class="st8 st15">blues</text>
+	<text transform="matrix(1 0 0 1 209.2051 275.2095)" class="st64 st10 st19">punk</text>
+	<text transform="matrix(0.9997 0.0237 -0.0237 0.9997 160.9091 214.1531)" class="st63 st8 st18">funk</text>
+	<text transform="matrix(1 0 0 1 177.7051 231.7095)" class="st10 st19">rap</text>
+	<text transform="matrix(1 0 0 1 223.2051 231.7095)" class="st8 st19">techno</text>
+	<text transform="matrix(1 0 0 1 226.7051 300.8496)" class="st8 st20">k-pop</text>
+	<text transform="matrix(1 0 0 1 268.2051 213.1299)" class="st65 st10 st22">indie</text>
+	<text transform="matrix(1 0 0 1 300.7891 235.8496)" class="st10 st23">disco</text>
+	<text transform="matrix(1 0 0 1 288.2051 282.3496)" class="st10 st11">folk</text>
+	<text transform="matrix(1 0 0 1 244.2051 322.2095)" class="st10 st24">soul</text>
+	<text transform="matrix(1 0 0 1 193.7051 254.2095)" class="st8 st11">hiphop</text>
+	<text transform="matrix(1 0 0 1 267.2051 259.7095)" class="st63 st8 st25">reggae</text>
+	<path class="st3" d="M264.2,542.03c-0.68-0.61-7.08,5.39-14.29,13.42c-7.21,8.02-12.5,15.03-11.82,15.64
 		c0.68,0.61,7.08-5.39,14.29-13.42C259.59,549.65,264.88,542.64,264.2,542.03z"/>
-	<path class="st2" d="M266.75,439.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
+	<path class="st3" d="M266.75,439.54c0,47.5,1.03,87.17,0,87.17c-1.03,0-1.87-38.5-1.87-86s0.84-86,1.87-86
 		C267.78,354.71,266.75,392.05,266.75,439.54z"/>
-	<path class="st5" d="M95.42,89.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
+	<path class="st6" d="M95.42,89.88c-11.98,6.96-18.13,16.25-17.45,17.69c0.68,1.45,6.15-9.12,20.37-16.92
 		c12.15-6.66,22.91-6,22.88-8.18C121.2,80.87,107.84,82.65,95.42,89.88z"/>
-	<path class="st5" d="M133.23,230.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
+	<path class="st6" d="M133.23,230.14c13.85-0.38,23.7-5.59,23.79-7.19c0.09-1.6-9.77,5.07-25.98,5.11
 		c-13.85,0.03-22.99-5.69-24-3.76C106.29,225.71,118.87,230.54,133.23,230.14z"/>
 	<g>
-		<path class="st65" d="M126.04,62.36C88,64.28,56.52,89.06,44.24,122.72 M159.64,66.9c-3.02-1-6.11-1.85-9.25-2.54 M203.61,98.18
+		<path class="st66" d="M126.04,62.36C88,64.28,56.52,89.06,44.24,122.72 M159.64,66.9c-3.02-1-6.11-1.85-9.25-2.54 M203.61,98.18
 			c-11.12-14.45-26.41-25.45-43.97-31.28 M92.62,237.96c12.96,5.9,27.48,8.87,42.68,8.1 M71.79,224.85
 			c6.3,5.25,13.3,9.67,20.84,13.1 M38.82,158.84c0.89,17.7,6.73,33.99,16.12,47.57"/>
 	</g>
 	<g>
-		<path class="st65" d="M67.59,94.55c-15.71,16.62-24.88,39.38-23.63,64.03 M148.22,69.15c-7.05-1.45-14.4-2.04-21.92-1.66
+		<path class="st66" d="M67.59,94.55c-15.71,16.62-24.88,39.38-23.63,64.03 M148.22,69.15c-7.05-1.45-14.4-2.04-21.92-1.66
 			 M214.53,131.64c-7.65-28.53-29.38-51.01-56.95-60 M59.62,204.14c12.99,18.45,32.94,31.52,55.83,35.57 M52.18,191.39
 			c2.12,4.48,4.62,8.74,7.44,12.75"/>
 	</g>
 	<g>
-		<path class="st65" d="M60.36,115.33c-7.02,12.67-10.7,27.39-9.92,42.92 M126.62,73.99c-28.78,1.45-53.25,17.87-66.26,41.35
+		<path class="st66" d="M60.36,115.33c-7.02,12.67-10.7,27.39-9.92,42.92 M126.62,73.99c-28.78,1.45-53.25,17.87-66.26,41.35
 			 M184.34,94.45c-8.23-7.39-17.97-13.09-28.68-16.6 M68.87,205.54c15.62,18.77,39.57,30.22,65.84,28.89
 			c3.93-0.2,7.77-0.67,11.52-1.41 M64.64,199.98c1.33,1.92,2.74,3.77,4.23,5.56"/>
 	</g>
 	<g>
-		<path id="SVGID_x5F_19_x5F_" class="st5" d="M155.5,195.52c-6.73,3.88-14.46,6.27-22.75,6.69c-27.97,1.41-51.79-20.12-53.2-48.09
+		<path id="SVGID_x5F_19_x5F_" class="st6" d="M155.5,195.52c-6.73,3.88-14.46,6.27-22.75,6.69c-27.97,1.41-51.79-20.12-53.2-48.09
 			c-1.41-27.97,20.12-51.79,48.09-53.2c27.97-1.41,51.79,20.12,53.2,48.09c0,0.06,0.01,3.16,0.01,0.78l-22.43,0.12l-34.99-0.45
 			l19.08,27.49L155.5,195.52z"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_19_x5F_" startOffset="2032.0773%">
-<tspan  class="st9" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10; font-size:53px; letter-spacing:1;">Musicolada</tspan>		</textPath>
+<tspan  class="st0 st10" style="font-size:53px; letter-spacing:1;">Musicolada</tspan>		</textPath>
 </text>
 	</g>
-	<path class="st66" d="M424.8,87.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
+	<path class="st67" d="M424.8,87.86c-6.83,11.69-19.54,16.98-28.38,11.81c-8.84-5.17-10.47-18.83-3.63-30.52
 		c6.83-11.69,19.54-16.98,28.38-11.81C430.01,62.5,431.63,76.17,424.8,87.86z"/>
-	<path class="st2" d="M398.71,65.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
+	<path class="st3" d="M398.71,65.21c-5.43,5.76-6.88,12.46-5.94,13.34c0.94,0.89,3.01-4.69,8.44-10.45
 		c5.43-5.76,12.17-9.52,11.23-10.41C411.49,56.81,404.14,59.45,398.71,65.21z"/>
 	<polygon points="401.82,518.97 229.45,584.87 192.59,511.11 	"/>
-	<polygon class="st66" points="360.88,526.4 237.75,573.47 211.43,520.78 	"/>
+	<polygon class="st67" points="360.88,526.4 237.75,573.47 211.43,520.78 	"/>
 	<polygon points="295.87,547.21 227.77,541.88 257.07,526.88 257.07,325.9 273.07,325.9 273.07,526.71 	"/>
-	<path class="st2" d="M260.18,437.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
+	<path class="st3" d="M260.18,437.41c0,52.79,1.03,96.88,0,96.88c-1.03,0-1.87-42.79-1.87-95.58c0-52.79,0.84-95.58,1.87-95.58
 		C261.21,343.13,260.18,384.62,260.18,437.41z"/>
 </g>
 </svg>
