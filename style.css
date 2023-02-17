@@ -1,0 +1,84 @@
+@font-face{
+    font-family: "Caslon-Bold";
+    src: url(./items/Font/F37Caslon-ExtraBoldDisplay.otf);
+}
+
+@font-face{
+    font-family: "Caslon-Regular";
+    src: url(./items/Font/F37Caslon-RegularDisplay.otf);
+}
+
+@font-face{
+    font-family: "Caslon-Semibold";
+    src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
+}
+
+header
+{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    margin:0px;
+    width: cover;
+
+}
+
+
+.electro
+{
+display: flex;
+justify-content: start;
+align-items: center;
+background-image: url("./items/banner-texte.png");
+background-position: center;
+background-size: cover;
+padding: 1em;
+text-align: center;
+margin-top: 100px;
+margin-left: 0px;
+margin-right: auto;
+width:400px;
+height: auto;
+
+}
+
+.electro
+{
+font-size: 25px;
+}
+
+h2
+{
+    font-size: 40px;
+}
+
+.historique
+{
+    justify-content: end;    
+    background-color: rgba(0, 0, 0, 0.486);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: auto;
+    padding: 50px;
+    width: 500px;
+    text-align: justify;
+    margin-right: 0px;
+    margin-left: auto;
+}
+
+p
+{
+font-size: 20px;
+}
+body
+{
+	background-attachment: fixed;
+	background-image: url("./items/fond_electro.jpg");
+	Background-repeat: no-repeat;
+	Background-size: cover;
+	background-position: center;
+background-color: black;
+color:white;
+text-shadow: 2px 2px 4px white;
+}
