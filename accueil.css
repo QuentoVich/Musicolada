@@ -13,6 +13,9 @@
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
 
+*{
+  margin: 0;
+}
 
 #multicouche {
 display: flex;
@@ -43,27 +46,38 @@ header
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black;
     background-image: url('./items/VECTORIEL SVG/header.svg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 200px;
     margin-bottom: 200px;
+    box-shadow: 0px 3px 8px black;
 }
     
 
 
 body
 {
-    height: 1200px;
+  height: 1200px;
 	background-attachment: fixed;
+  background-image: url('./items/VECTORIEL SVG/fond\ site.svg');
 	Background-repeat: no-repeat;
 	Background-size: cover;
 	background-position: center;
+
+}
+#fond{
+  background-color: hsl(0, 0%, 0%,0.630);
+}
+h1{ 
     color:white;
     text-shadow: 2px 2px 4px white;
     margin: 0px;
 }
-
+.banner{
+  box-shadow: 0px 1px 10px #FAB711;
+}
 
 
 .electro
@@ -112,4 +126,57 @@ h2
 p
 {
 font-size: 20px;
+}
+
+/* footer */
+footer{
+  display: block;
+  background-image: url('./items/VECTORIEL SVG/footer.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 110px;
+  margin-top: 1200px;
+  margin-bottom: 0;
+  box-shadow: 0px -3px 8px black;
+}
+#navpiedpage> ul{
+  display: flex;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+#navpiedpage> ul> li{
+  display: inline-block;
+  padding-top: 2px;
+}
+#boutonfooter{
+  display: bloc;
+  width: 110px;
+}
+#aface{
+  display: bloc;
+  margin-left: 60px;
+}
+#atwit{
+  display: bloc;
+  margin-left: 40px;
+}
+#ainsta{
+  display: bloc;
+  margin-left: 70px;
+}
+#atik{
+  display: bloc;
+  margin-left: 40px;
+}
+#alink{
+  display: bloc;
+  margin-left: 70px;
+}
+#asnap{
+  display: bloc;
+  margin-left: 40px;
+}
+#divlargeur{
+  width: 60px;
 }
