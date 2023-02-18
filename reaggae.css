@@ -64,3 +64,45 @@ body{
     height: 20px;
     box-shadow: 0px 2px 8px black;
 }
+#conteneur{
+    
+    margin-top: 200px;
+    width: 1400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 200px;
+}
+#para{
+   
+    width: 700px;
+    position: absolute;
+    margin-left: 700px;
+    z-index:0;
+
+}
+p{
+    
+    background-color: rgb(0, 0, 0,0.650);
+    color: white;
+    text-align: justify;
+    height:500px;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 9px  #FAB711;
+}
+#video{
+    width: 700px;
+}
+#play{
+    position: relative;
+    z-index:1;
+    margin-top: 610px;
+    margin-left: 520px;
+}
+#playlogo{
+    width: 140px;
+  
+
+
+}
