@@ -127,17 +127,24 @@ p
 {
 font-size: 20px;
 }
+
+
+#fleche{
+  margin-top: 1800px;
+  margin-left: 1200px;
+}
 #retourhaut{
   display: flex;
   position: relative;
   height: 60px;
   width: 60px;
-  margin-left: 1300px;
-  margin-top: 1000px;
+
 }
+
 #texteretour{
-  margin-left: 1270px;
+
   font-style: oblique;
+  text-align: left;
   text-shadow: 1px 1px 2px  #FAB711;
 
 }
