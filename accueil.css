@@ -51,10 +51,15 @@ header
     background-size: cover;
     background-repeat: no-repeat;
     height: 200px;
-    margin-bottom: 200px;
     box-shadow: 0px 3px 8px black;
 }
     
+#bandeblanc{
+  background-color: white;
+  height: 20px;
+  box-shadow: 0px 2px 8px black;
+  margin-bottom: 200px;
+}
 
 
 body
@@ -65,8 +70,9 @@ body
 	Background-repeat: no-repeat;
 	Background-size: cover;
 	background-position: center;
-
 }
+
+
 #fond{
   background-color: hsl(0, 0%, 0%,0.630);
 }
