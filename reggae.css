@@ -101,10 +101,6 @@ h1{
     box-shadow: 4px 4px 9px  #FAB711;
     background-color: rgb(0, 0, 0,0.650);
 
-
-
-
-
 }
 p{
     
@@ -117,6 +113,7 @@ p{
     padding-right: 35px;
     background-image: url('items/VECTORIEL SVG/bordureparagraphe.svg');
     Background-repeat: no-repeat;
+    background: cover;
     overflow: scroll;
 
 }
@@ -154,7 +151,18 @@ p{
 }
 #soncasque{
     height: 150px;
-}
+} 
+#fleche{
+  }
+  #retourhaut{
+    height: 60px;
+    width: 60px;
+    margin-left: 1300px;
+    margin-bottom: 50px;
+  
+  }
+  
+  
 footer{
     display: block;
     background-image: url('./items/VECTORIEL SVG/footer.svg');
@@ -162,6 +170,6 @@ footer{
     background-repeat: no-repeat;
     height: 110px;
     margin-bottom: 0;
-    margin-top: 60px;
+    margin-top: 10px;
     box-shadow: 0px -3px 8px black;
   }
