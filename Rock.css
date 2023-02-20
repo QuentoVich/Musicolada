@@ -11,9 +11,10 @@ body
     font-family: 'berkshire_swashregular';
     background-image: url(./items/Image/fond_rock.jpeg);
     background-position: center;
-    background-size: 2620px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
 }
 
 h1
