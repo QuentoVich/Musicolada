@@ -1,0 +1,220 @@
+@font-face{
+    font-family: "Caslon-Bold";
+    src: url(./items/Font/F37Caslon-ExtraBoldDisplay.otf);
+}
+
+@font-face{
+    font-family: "Caslon-Regular";
+    src: url(./items/Font/F37Caslon-RegularDisplay.otf);
+}
+
+@font-face{
+    font-family: "Caslon-Semibold";
+    src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
+}
+
+*{
+  margin: 0;
+}
+
+#multicouche {
+display: flex;
+justify-content: center;
+    
+  }
+  #multicouche img {
+    align-items: center;
+    top: 0;
+    left: 0;
+  }
+   
+  #couche1 {
+  width:150px;
+    z-index: 1;
+  }
+   
+  #couche2 {   
+    
+   
+    z-index: 2;
+  }
+
+
+header
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url('./items/VECTORIEL SVG/header.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    box-shadow: 0px 3px 8px black;
+}
+    
+#bandeblanc{
+  background-color: white;
+  height: 20px;
+  box-shadow: 0px 2px 8px black;
+  margin-bottom: 200px;
+}
+
+
+body
+{
+  height: 100%;
+	background-attachment: fixed;
+  background-image: url('./items/VECTORIEL SVG/fond\ site.svg');
+	Background-repeat: no-repeat;
+	Background-size: cover;
+	background-position: center;
+}
+
+
+#fond{
+  background:linear-gradient(45deg, rgb(0, 0, 0,0.630),rgb(250, 183, 17,0.400), rgb(0, 0, 0,0.630));
+}
+h1{ 
+    color:white;
+    text-shadow: 2px 2px 4px white;
+    margin: 0;
+}
+.banner{
+  box-shadow: 0px 1px 10px #FAB711;
+}
+
+
+.electro
+{
+display: flex;
+justify-content: start;
+align-items: center;
+background-image: url();
+background-position: center;
+background-size: cover;
+padding: 1em;
+text-align: center;
+margin-top: 100px;
+margin-left: 0px;
+margin-right: auto;
+width:400px;
+height: auto;
+
+}
+
+.electro
+{
+font-size: 25px;
+}
+
+h2
+{
+    font-size: 40px;
+}
+
+.historique
+{
+    justify-content: end;    
+    background-color: rgba(0, 0, 0, 0.486);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: auto;
+    padding: 50px;
+    width: 500px;
+    text-align: justify;
+    margin-right: 0px;
+    margin-left: auto;
+}
+
+p
+{
+font-size: 20px;
+}
+
+
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  border: 10px solid #1a1a1ad1;
+  border-radius: 10px;
+  display:none;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient( 90deg,#000000, #FAB711, #000000);
+  border-radius: 50px; 
+}
+
+#fleche{
+  margin-top: 110%;
+  margin-left: 85%;
+}
+#retourhaut{
+  display: flex;
+  position: relative;
+  height: 60px;
+  width: 60px;
+
+}
+
+#texteretour{
+
+  font-style: oblique;
+  text-align: left;
+  text-shadow: 1px 1px 2px  #FAB711;
+
+}
+
+/* footer */
+footer{
+  display: block;
+  background-image: url('./items/VECTORIEL SVG/footer.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  margin-bottom: 0;
+  margin-top: 10%;
+  box-shadow: 0px -3px 8px black;
+}
+#navpiedpage> ul{
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#navpiedpage> ul> li{
+  display: inline-block;
+  padding-top: 2px;
+}
+#boutonfooter{
+  display: bloc;
+  width: 110px;
+}
+#aface{
+  display: bloc;
+  margin-left: 4%;
+}
+#atwit{
+  display: bloc;
+  margin-left: 3%;
+}
+#ainsta{
+  display: bloc;
+  margin-left: 5%;
+}
+#atik{
+  display: bloc;
+  margin-left: 3%;
+}
+#alink{
+  display: bloc;
+  margin-left: 5%;
+}
+#asnap{
+  display: bloc;
+  margin-left: 3%;
+}
