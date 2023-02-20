@@ -64,7 +64,7 @@ header
 
 body
 {
-  height: 1200px;
+  height: 100%;
 	background-attachment: fixed;
   background-image: url('./items/VECTORIEL SVG/fond\ site.svg');
 	Background-repeat: no-repeat;
@@ -74,12 +74,12 @@ body
 
 
 #fond{
-  background-color: hsl(0, 0%, 0%,0.630);
+  background:linear-gradient(45deg, rgb(0, 0, 0,0.630),rgb(250, 183, 17,0.400), rgb(0, 0, 0,0.630));
 }
 h1{ 
     color:white;
     text-shadow: 2px 2px 4px white;
-    margin: 0px;
+    margin: 0;
 }
 .banner{
   box-shadow: 0px 1px 10px #FAB711;
@@ -135,9 +135,23 @@ font-size: 20px;
 }
 
 
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  border: 10px solid #1a1a1ad1;
+  border-radius: 10px;
+  display:none;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient( 90deg,#000000, #FAB711, #000000);
+  border-radius: 50px; 
+}
+
 #fleche{
-  margin-top: 1800px;
-  margin-left: 1200px;
+  margin-top: 110%;
+  margin-left: 85%;
 }
 #retourhaut{
   display: flex;
@@ -161,16 +175,16 @@ footer{
   background-image: url('./items/VECTORIEL SVG/footer.svg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 110px;
+  width: 100%;
   margin-bottom: 0;
-  margin-top: 60px;
+  margin-top: 10%;
   box-shadow: 0px -3px 8px black;
 }
 #navpiedpage> ul{
   display: flex;
   list-style-type: none;
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
 }
 #navpiedpage> ul> li{
   display: inline-block;
@@ -182,28 +196,25 @@ footer{
 }
 #aface{
   display: bloc;
-  margin-left: 60px;
+  margin-left: 4%;
 }
 #atwit{
   display: bloc;
-  margin-left: 40px;
+  margin-left: 3%;
 }
 #ainsta{
   display: bloc;
-  margin-left: 70px;
+  margin-left: 5%;
 }
 #atik{
   display: bloc;
-  margin-left: 40px;
+  margin-left: 3%;
 }
 #alink{
   display: bloc;
-  margin-left: 70px;
+  margin-left: 5%;
 }
 #asnap{
   display: bloc;
-  margin-left: 40px;
-}
-#divlargeur{
-  width: 60px;
+  margin-left: 3%;
 }
