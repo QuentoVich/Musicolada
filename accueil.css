@@ -136,16 +136,17 @@ nav li{
   list-style-type: none;
 }
 
-li .icone:hover{
-height: 400px;
-width:275px;
-transition: 1.5s;
-}
 
 .icone{
   border-radius: 90px;
   height: 250px;
-  width:175px;
+  width:195px;
+  transition: 1.5s;
+}
+
+li .icone:hover{
+height: 400px;
+width:300px;
 }
 
 #menu #imgk-pop,#imgrock{
@@ -153,7 +154,7 @@ transition: 1.5s;
   align-items: end;
 }
 
-
+/*fin menu*/
 
 p
 {
@@ -198,7 +199,8 @@ align-items: center;
 
 }
 
-/* footer */
+
+
 footer{
   display: block;
   background-image: url('./items/VECTORIEL SVG/footer.svg');
