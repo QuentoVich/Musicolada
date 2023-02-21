@@ -136,16 +136,17 @@ nav li{
   list-style-type: none;
 }
 
-li .icone:hover{
-height: 400px;
-width:275px;
-transition: 1.5s;
-}
 
 .icone{
   border-radius: 90px;
   height: 250px;
   width:175px;
+  transition: 1.5s;
+}
+
+li .icone:hover{
+height: 400px;
+width:275px;
 }
 
 #menu #imgk-pop,#imgrock{
