@@ -2,3 +2,11 @@ h1{
     background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
     background-repeat: no-repeat;
 }
+body{
+    background-image: url(./items/Image/fond_rap.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+select{
+    color: ;
+}

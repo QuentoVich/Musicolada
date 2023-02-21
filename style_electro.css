@@ -12,71 +12,44 @@
     font-family: "Caslon-Semibold";
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
+/*header*/
+
+#couche1 {
+    width:150px;
+      z-index: 1;
+    }
+     
+    #couche2 {   
+      
+     
+      z-index: 2;
+    }
+  
 
 header
 {
+    
     display: flex;
     justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url('./items/VECTORIEL SVG/header.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 200px;
-    margin: 0px;
-    margin-top: -20px;
-    width: cover;
-    margin-bottom: 200px;
-
+    box-shadow: 0px 3px 8px black;
 }
 
+/*fin du header*/
 
-.electro
-{
-display: flex;
-justify-content: start;
-align-items: center;
-background-image: url("./items/banner-texte.png");
-background-position: center;
-background-size: cover;
-padding: 1em;
-text-align: center;
-margin-top: 100px;
-margin-left: 0px;
-margin-right: auto;
-width:400px;
-height: auto;
-
-}
-
-.electro
-{
-font-size: 25px;
-}
-
-h2
-{
+h2{
     font-size: 40px;
 }
 
-.historique
-{
-    justify-content: end;    
-    background-color: rgba(0, 0, 0, 0.486);
-    background-size: cover;
-    background-position: center;
-    border-radius: 15px;
-    height: auto;
-    padding: 50px;
-    width: 500px;
-    text-align: justify;
-    margin-right: 0px;
-    margin-left: auto;
-}
+body{
 
-p
-{
-font-size: 20px;
-}
-body
-{
 	background-attachment: fixed;
-	background-image: url("./items/fond_electro.jpg");
+	background-image: url("./items/Image/fond_electro.jpg");
 	Background-repeat: no-repeat;
 	Background-size: cover;
 	background-position: center;
@@ -85,3 +58,55 @@ body
     text-shadow: 2px 2px 4px white;
     margin: 0px;
 }
+
+p{
+
+font-size: 20px;
+}
+
+.historique{
+
+    background-color: rgba(0, 0, 0, 0.486);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    height: auto;
+    padding: 50px;
+    width: 500px;
+    text-align: justify;
+    margin-right: 5%;
+    margin-left: auto;
+}
+
+.electro{
+display: flex;
+justify-content: start;
+align-items: center;
+background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
+background-position: center;
+background-size: cover;
+padding: 1em;
+margin-top: 100px;
+margin-left: 0px;
+margin-right: auto;
+width:400px;
+height: auto;
+font-size: 25px;
+}
+
+#corps{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.extrait{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 10%;
+    width: 50%;
+    margin-right: 10%;
+}
+

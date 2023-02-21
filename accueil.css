@@ -12,6 +12,7 @@
     font-family: "Caslon-Semibold";
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
+/* Header*/
 
 *{
   margin: 0;
@@ -27,7 +28,7 @@ justify-content: center;
     top: 0;
     left: 0;
   }
-   
+   /*header*/
   #couche1 {
   width:150px;
     z-index: 1;
@@ -56,9 +57,38 @@ header
     
 #bandeblanc{
   background-color: white;
-  height: 20px;
+  height: 5px;
   box-shadow: 0px 2px 8px black;
   margin-bottom: 200px;
+}
+
+/*fin du header*/
+
+#fond{
+  background-color: hsl(0, 0%, 0%,0.630);
+}
+h1{ 
+   font-family: "Caslon-Bold";
+    color:#ffffff;
+    font-size: 5em;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 25% 10% 25%;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.76);
+    border-radius: 30px;
+    
+}
+.banner{
+  box-shadow: 0px 1px 10px #FAB711;
+}
+
+
+h2
+{
+    font-size: 40px;
 }
 
 
@@ -74,60 +104,58 @@ body
 
 
 #fond{
-  background:linear-gradient(45deg, rgb(0, 0, 0,0.630),rgb(250, 183, 17,0.400), rgb(0, 0, 0,0.630));
+  background:linear-gradient(45deg, rgb(0, 0, 0,0.630)30%,rgb(250, 183, 17,0.400) 50%, rgb(0, 0, 0,0.630))30%;
 }
-h1{ 
-    color:white;
-    text-shadow: 2px 2px 4px white;
-    margin: 0;
-}
+
 .banner{
-  box-shadow: 0px 1px 10px #FAB711;
+  box-shadow: 0px 1px 10px rgb(250, 183, 17);
 }
 
 
-.electro
-{
-display: flex;
-justify-content: start;
-align-items: center;
-background-image: url();
-background-position: center;
-background-size: cover;
-padding: 1em;
-text-align: center;
-margin-top: 100px;
-margin-left: 0px;
-margin-right: auto;
-width:400px;
-height: auto;
+
+
+
+
+/*Style menu ici */
+#menu{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 150px;
+}
+
+#menu ul{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+}
+
+nav li{
+  list-style-type: none;
 
 }
 
-.electro
-{
-font-size: 25px;
+
+.icone{
+  border-radius: 90px;
+  height: 250px;
+  width:195px;
+  transition: 1.5s;
 }
 
-h2
-{
-    font-size: 40px;
+li .icone:hover{
+height: 400px;
+width:300px;
 }
 
-.historique
-{
-    justify-content: end;    
-    background-color: rgba(0, 0, 0, 0.486);
-    background-size: cover;
-    background-position: center;
-    border-radius: 15px;
-    height: auto;
-    padding: 50px;
-    width: 500px;
-    text-align: justify;
-    margin-right: 0px;
-    margin-left: auto;
+#menu #imgk-pop,#imgrock{
+  display: flex;
+  align-items: end;
+
 }
+
+/*fin menu*/
 
 p
 {
@@ -150,12 +178,12 @@ font-size: 20px;
 }
 
 #fleche{
-  margin-top: 110%;
-  margin-left: 85%;
+display: flex;
+flex-direction: column;
+align-items: center;
 }
+
 #retourhaut{
-  display: flex;
-  position: relative;
   height: 60px;
   width: 60px;
 
@@ -170,51 +198,39 @@ font-size: 20px;
 }
 
 /* footer */
+
+
 footer{
-  display: block;
   background-image: url('./items/VECTORIEL SVG/footer.svg');
-  background-size: cover;
   background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
-  margin-bottom: 0;
-  margin-top: 10%;
-  box-shadow: 0px -3px 8px black;
+  height:100%;
 }
-#navpiedpage> ul{
-  display: flex;
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+#navpiedpage{
+  display:flex;
+  flex-direction: row;
+  width: 72.5%;  
 }
-#navpiedpage> ul> li{
-  display: inline-block;
-  padding-top: 2px;
-}
-#boutonfooter{
-  display: bloc;
-  width: 110px;
-}
-#aface{
-  display: bloc;
-  margin-left: 4%;
-}
-#atwit{
-  display: bloc;
+#noir{
   margin-left: 3%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
 }
-#ainsta{
-  display: bloc;
-  margin-left: 5%;
+#gris{
+  margin-left: 1%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
 }
-#atik{
-  display: bloc;
-  margin-left: 3%;
+#jaune{
+  margin-left:1%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
+  
 }
-#alink{
-  display: bloc;
-  margin-left: 5%;
-}
-#asnap{
-  display: bloc;
-  margin-left: 3%;
+.afooter{
+  width: 35%;
 }
