@@ -140,13 +140,13 @@ nav li{
 .icone{
   border-radius: 90px;
   height: 250px;
-  width:175px;
+  width:195px;
   transition: 1.5s;
 }
 
 li .icone:hover{
 height: 400px;
-width:275px;
+width:300px;
 }
 
 #menu #imgk-pop,#imgrock{
@@ -154,7 +154,7 @@ width:275px;
   align-items: end;
 }
 
-
+/*fin menu*/
 
 p
 {
@@ -199,7 +199,8 @@ align-items: center;
 
 }
 
-/* footer */
+
+
 footer{
   display: block;
   background-image: url('./items/VECTORIEL SVG/footer.svg');
