@@ -74,7 +74,9 @@ h1{
     margin: 0px;
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 100px;
+    height: 100px;
 }
 .banner{
   box-shadow: 0px 1px 10px #FAB711;
@@ -113,7 +115,8 @@ body
 
 
 /*Style menu ici */
-nav ul{
+
+#menu ul{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -161,21 +164,6 @@ transition: 1.5s;
 }
 
 
-
-.historique
-{
-    justify-content: end;    
-    background-color: rgba(0, 0, 0, 0.486);
-    background-size: cover;
-    background-position: center;
-    border-radius: 15px;
-    height: auto;
-    padding: 50px;
-    width: 500px;
-    text-align: justify;
-    margin-right: 0px;
-    margin-left: auto;
-}
 
 p
 {
