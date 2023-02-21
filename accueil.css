@@ -12,6 +12,7 @@
     font-family: "Caslon-Semibold";
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
+/* Header*/
 
 *{
   margin: 0;
@@ -61,6 +62,7 @@ header
   margin-bottom: 200px;
 }
 
+/*Header*/
 
 #fond{
   background-color: hsl(0, 0%, 0%,0.630);
@@ -86,14 +88,26 @@ h2
 
 body
 {
-  height: 1200px;
+  height: 100%;
 	background-attachment: fixed;
   background-image: url('./items/VECTORIEL SVG/fond\ site.svg');
 	Background-repeat: no-repeat;
 	Background-size: cover;
 	background-position: center;
-
 }
+
+
+#fond{
+  background:linear-gradient(45deg, rgb(0, 0, 0,0.630),rgb(250, 183, 17,0.400), rgb(0, 0, 0,0.630));
+}
+
+
+.banner{
+  box-shadow: 0px 1px 10px #FAB711;
+}
+
+
+
 
 
 
@@ -123,12 +137,27 @@ font-size: 20px;
 }
 
 
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  border: 10px solid #1a1a1ad1;
+  border-radius: 10px;
+  display:none;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient( 90deg,#000000, #FAB711, #000000);
+  border-radius: 50px; 
+}
+
 #fleche{
 display: flex;
 justify-content: center;
 flex-direction: column;
 align-items: center;
 }
+
 #retourhaut{
   display: flex;
   position: relative;
@@ -151,16 +180,16 @@ footer{
   background-image: url('./items/VECTORIEL SVG/footer.svg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 110px;
+  width: 100%;
   margin-bottom: 0;
-  margin-top: 60px;
+  margin-top: 10%;
   box-shadow: 0px -3px 8px black;
 }
 #navpiedpage> ul{
   display: flex;
   list-style-type: none;
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
 }
 #navpiedpage> ul> li{
   display: inline-block;
@@ -172,28 +201,25 @@ footer{
 }
 #aface{
   display: bloc;
-  margin-left: 60px;
+  margin-left: 4%;
 }
 #atwit{
   display: bloc;
-  margin-left: 40px;
+  margin-left: 3%;
 }
 #ainsta{
   display: bloc;
-  margin-left: 70px;
+  margin-left: 5%;
 }
 #atik{
   display: bloc;
-  margin-left: 40px;
+  margin-left: 3%;
 }
 #alink{
   display: bloc;
-  margin-left: 70px;
+  margin-left: 5%;
 }
 #asnap{
   display: bloc;
-  margin-left: 40px;
-}
-#divlargeur{
-  width: 60px;
+  margin-left: 3%;
 }
