@@ -135,6 +135,10 @@ transition: 1.5s;
   width:175px;
 }
 
+
+
+/*Problème image apparait en fond,peut être avec un hidden et visible au hover*/
+
 #imgreggae:hover{
   /* photo couleur*/
 }
