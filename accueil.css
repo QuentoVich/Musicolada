@@ -177,14 +177,11 @@ font-size: 20px;
 
 #fleche{
 display: flex;
-justify-content: center;
 flex-direction: column;
 align-items: center;
 }
 
 #retourhaut{
-  display: flex;
-  position: relative;
   height: 60px;
   width: 60px;
 
@@ -199,51 +196,39 @@ align-items: center;
 }
 
 /* footer */
+
+
 footer{
-  display: block;
   background-image: url('./items/VECTORIEL SVG/footer.svg');
-  background-size: cover;
   background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
-  margin-bottom: 0;
-  margin-top: 5%;
-  box-shadow: 0px -3px 8px black;
+  height:100%;
 }
-#navpiedpage> ul{
-  display: flex;
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+#navpiedpage{
+  display:flex;
+  flex-direction: row;
+  width: 72.5%;  
 }
-#navpiedpage> ul> li{
-  display: inline-block;
-  padding-top: 2px;
-}
-#boutonfooter{
-  display: bloc;
-  width: 110px;
-}
-#aface{
-  display: bloc;
-  margin-left: 4%;
-}
-#atwit{
-  display: bloc;
+#noir{
   margin-left: 3%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
 }
-#ainsta{
-  display: bloc;
-  margin-left: 5%;
+#gris{
+  margin-left: 1%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
 }
-#atik{
-  display: bloc;
-  margin-left: 3%;
+#jaune{
+  margin-left:1%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
+  
 }
-#alink{
-  display: bloc;
-  margin-left: 5%;
-}
-#asnap{
-  display: bloc;
-  margin-left: 3%;
+.afooter{
+  width: 35%;
 }
