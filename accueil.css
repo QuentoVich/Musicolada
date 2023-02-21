@@ -28,7 +28,7 @@ justify-content: center;
     top: 0;
     left: 0;
   }
-   
+   /*header*/
   #couche1 {
   width:150px;
     z-index: 1;
@@ -62,21 +62,24 @@ header
   margin-bottom: 200px;
 }
 
-/*Header*/
+/*fin du header*/
 
 #fond{
   background-color: hsl(0, 0%, 0%,0.630);
 }
 h1{ 
   font-family: "Caslon-Bold";
-    color:#FAB711;
-    font-size: 3em;
+    color:#ffffff;
+    font-size: 5em;
     margin: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin: 5% 25% 10% 25%;
     height: 100px;
+    background-color: rgba(0, 0, 0, 0.76);
+    border-radius: 30px;
+    
 }
 .banner{
   box-shadow: 0px 1px 10px #FAB711;
@@ -101,12 +104,11 @@ body
 
 
 #fond{
-  background:linear-gradient( rgb(0, 0, 0,0.630)50%,rgb(250, 183, 17,0.400) 10%, rgb(0, 0, 0,0.630));
+  background:linear-gradient(45deg, rgb(0, 0, 0,0.630)30%,rgb(250, 183, 17,0.400) 50%, rgb(0, 0, 0,0.630))30%;
 }
 
-
 .banner{
-  box-shadow: 0px 1px 10px #FAB711;
+  box-shadow: 0px 1px 10px rgb(250, 183, 17);
 }
 
 
@@ -115,21 +117,29 @@ body
 
 
 /*Style menu ici */
-
+#menu{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 150px;
+  
+ 
+}
 #menu ul{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   
 }
+
 nav li{
   list-style-type: none;
 }
-li .icone:hover{
-height: 500px;
-width:350px;
-transition: 1.5s;
 
+li .icone:hover{
+height: 400px;
+width:275px;
+transition: 1.5s;
 }
 
 .icone{
@@ -138,29 +148,9 @@ transition: 1.5s;
   width:175px;
 }
 
-
-
-/*Problème image apparait en fond,peut être avec un hidden et visible au hover*/
-
-#imgreggae:hover{
-  background: url(items/Image/reggaecolor.svg);
-}
-
-#imgk-pop:hover{
-  background: url(./items/Image/icone_kpop.jpg);
-}
-
-#imgrap:hover{
-  background: url(./items/Image/icon_rap.png);
-  background-repeat: no-repeat;
-}
-
-#imgrock:hover{
-  background: url(./items/Image/icone_rock.jpg);
-}
-
-#imgelectro:hover{
-  background: url(./items/Image/icone_electro.png);
+#menu #imgk-pop,#imgrock{
+  display: flex;
+  align-items: end;
 }
 
 
