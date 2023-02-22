@@ -79,15 +79,21 @@ background-size: cover;
 h1 { 
     font-family: 'campus_personal_useregular'; 
     color:#000000;
+    background-color: burlywood;
 }
 
 
 
 .texteKpop {
+
+    display: flex;
+    flex-direction:column;
+  
     background-color: rgba(96, 7, 104, 0.65); ;
     text-shadow:  2px 2px 2px #000000;
     color: #0EF1FF;
     text-align: justify;
     border-radius: 10px;
+    width: 100px;
 }
 
