@@ -86,24 +86,14 @@ h1 {
 
 
 .texteKpop {
-<<<<<<< HEAD
 
-    display: flex;
-    flex-direction:column;
-  
+    margin-top: 100px;
+    margin-left: 50%;
     background-color: rgba(96, 7, 104, 0.65); ;
-=======
-    background-color: rgba(7, 228, 25, 0.65); ;
->>>>>>> 22cca5b87a2df64c8b0a1056edcccefb3ce4e416
     text-shadow:  2px 2px 2px #000000;
     color: #0EF1FF;
     text-align: justify;
     border-radius: 10px;
-<<<<<<< HEAD
-    width: 100px;
-=======
-    height: 100px;
     
->>>>>>> 22cca5b87a2df64c8b0a1056edcccefb3ce4e416
 }
 
