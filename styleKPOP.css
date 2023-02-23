@@ -1,3 +1,17 @@
+@font-face{
+    font-family: "Caslon-Bold";
+    src: url(./items/Font/F37Caslon-ExtraBoldDisplay.otf);
+}
+
+@font-face{
+    font-family: "Caslon-Regular";
+    src: url(./items/Font/F37Caslon-RegularDisplay.otf);
+}
+
+@font-face{
+    font-family: "Caslon-Semibold";
+    src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
+}
 @font-face {
     font-family: 'campus_personal_useregular';
     src: url('campus_personal_use-webfont.woff2') format('woff2'),
@@ -6,25 +20,80 @@
     font-style: normal;
 }
 
+/* Header*/
+
+*{
+  margin: 0;
+}
+
+#multicouche {
+display: flex;
+justify-content: center;
+    
+  }
+  #multicouche img {
+    align-items: center;
+    top: 0;
+    left: 0;
+  }
+   /*header*/
+  #couche1 {
+  width:150px;
+    z-index: 1;
+  }
+   
+  #couche2 {   
+    
+   
+    z-index: 2;
+  }
+
+
+header
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url('./items/VECTORIEL SVG/header.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    box-shadow: 0px 3px 8px black;
+}
+#bandeblanc{
+    background-color: white;
+    height: 5px;
+    box-shadow: 0px 2px 8px black;
+    margin-bottom: 200px;
+  }
+
 
 body {
 background-image: url('./items/Image/kpopv1.png');
 background-repeat: no-repeat;
 background-size: cover;
+background-attachment: fixed;
 }
 
 h1 { 
     font-family: 'campus_personal_useregular'; 
     color:#000000;
+    background-color: burlywood;
 }
 
 
 
 .texteKpop {
+
+    margin-top: 100px;
+    margin-left: 50%;
     background-color: rgba(96, 7, 104, 0.65); ;
     text-shadow:  2px 2px 2px #000000;
     color: #0EF1FF;
     text-align: justify;
     border-radius: 10px;
+    
 }
 
