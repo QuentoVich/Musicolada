@@ -84,11 +84,25 @@ h1 {
 }
 
 
+.bandeJauneNoire {
+  height: 250px;
+  width: 250px;
+}
+
+
+#extrait_video {
+
+  margin-top: 50px;
+  margin-right: 50%;
+  margin: 50px;
+
+}
 
 .texteKpop {
 
     margin-top: 100px;
     margin-left: 50%;
+    margin: 50px;
     background-color: rgba(96, 7, 104, 0.65); ;
     text-shadow:  2px 2px 2px #000000;
     color: #0EF1FF;
