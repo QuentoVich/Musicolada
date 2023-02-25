@@ -52,7 +52,7 @@ header {
 
 
     
-    
+    /* action sur le body */
 body{
     height: 1700px;
 	background-attachment: fixed;
@@ -60,16 +60,11 @@ body{
     Background-repeat: no-repeat;
 	Background-size: cover;
 	background-position: center;
+  margin:0;
 } 
 
 
-html {
-    height:100%;
-  }
-  
-  body {
-    margin:0;
-  }
+
   
   .bg {
     animation:slide 3s ease-in-out infinite alternate;
@@ -105,9 +100,7 @@ html {
     transform:translate(-50%, -50%);
   }
   
-  h1 {
-    font-family:monospace;
-  }
+
   
   @keyframes slide {
     0% {
@@ -119,12 +112,14 @@ html {
   }
   
   
-    
+  /* barre header */
  #bandeblanc{
     background-color: white;
     height: 0.5%;
     box-shadow: 0px 2px 8px black;
 }
+
+/* a partir d'ici c'est le conteneur avec tous les éléments */
 #conteneur{
     display:flex;
     width: 100%;
@@ -132,6 +127,7 @@ html {
     flex-wrap: wrap;
     
 }
+/* menu */
 nav{
 
     width: 100%;
@@ -139,6 +135,8 @@ nav{
     margin-bottom: 10%;
     
 }
+
+/* titre du genre musicale */
 #titre{
     width: 40%;
     height: 12%;
@@ -155,9 +153,9 @@ h1{
     font-size: 500%;
     color: white;
 }
+/* bloc avec vidéo et paragraphe */
 section{
     display: flex;
-
     width: 100%;
     
 }
@@ -174,19 +172,7 @@ section{
     
 }
 
-::-webkit-scrollbar{
-    width: 8px;
-}
-::-webkit-scrollbar-track{
-    border: 10px solid #1a1a1ad1;
-    border-radius: 10px;
-    display:none;
-    overflow-x: hidden;
-}
-::-webkit-scrollbar-thumb{
-    background: linear-gradient( 90deg,#000000, #FAB711, #000000);
-    border-radius: 50px; 
-}
+
 #para{
     position: relative;
     background-color: rgba(0, 0, 0, 0.687);
@@ -215,6 +201,8 @@ p{
     margin-top: -6%;
     margin-left: 70%;
 }
+
+/* bloc avec casque et son audio */
 #son{
     display: flex;
     margin-top: 10%;
@@ -240,6 +228,9 @@ p{
     margin-left: 10%;
     box-shadow: 2px 2px 8px black;
 }
+
+
+/* fleche de retour vers le haut */
 #fleche{
     display: flex;
     flex-direction: column;
@@ -260,7 +251,10 @@ p{
       text-align: left;
       text-shadow: 1px 1px 2px  #FAB711;
       margin-top: -3%;
+      color: #000000;
     }
+
+    /* footer */
 
  footer{
     background-image: url('./items/VECTORIEL SVG/footer.svg');
@@ -273,8 +267,20 @@ p{
 
   } 
   
-
-
+/*scrollbar  */
+  ::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    border: 10px solid #1a1a1ad1;
+    border-radius: 10px;
+    display:none;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient( 90deg,#000000, #FAB711, #000000);
+    border-radius: 50px; 
+}
 
 
 
