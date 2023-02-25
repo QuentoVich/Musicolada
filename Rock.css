@@ -34,7 +34,7 @@ header
 body
 {
     font-family: 'berkshire_swashregular';
-    background-image: url(./items/Image/fond_rock.jpeg);
+    background-image: url(./items/Image/chantal-goya-tmaster_rz7snyz1adofzs-1l-90168550.jpg);
     background-color: black;
     background-position: center;
     background-size: cover;
@@ -48,6 +48,7 @@ h1
     margin-top: 100px;
     margin-left: 5%;
     font-size: 100px;
+    color: pink;
 }
 
 .Histoire-Du-Rock
@@ -57,6 +58,7 @@ h1
     margin-left: 72%;
     font-size: 23px;
     text-align: justify;
+    color: pink;
 }
 
 .Extrait-Video
@@ -69,4 +71,5 @@ h1
 {
     margin-top: 50px;
     margin-left: 64%;
+    border-radius: 60px
 }
