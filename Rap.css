@@ -1,12 +1,74 @@
+@font-face {
+    font-family: 'rubik';
+    src: url('./items/Font/rubik-regular-webfont.woff2')format('woff2'),
+         url('./items/Font/rubik-regular-webfont.woff')format('woff');
+    font-weight: normal;
+    font-style: normal;
+            }
+#couche1 
+{
+     width:150px;
+     z-index: 1;
+}
+                 
+#couche2 
+{   
+    z-index: 2;
+}
+              
+            
+header
+{      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url('./items/VECTORIEL SVG/header.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    box-shadow: 0px 3px 8px black;
+}
 h1{
     background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
     background-repeat: no-repeat;
 }
 body{
     background-image: url(./items/Image/fond_rap.jpg);
-   background-size: cover;
+    background-size: cover;
     background-repeat: no-repeat;
+<<<<<<< HEAD
 }
-select{
-    color: ;
+=======
 }
+
+#conteneur{
+}
+
+h1
+{
+    margin-top: 30px;
+    margin-left: 2%;
+    font-size: 90px;
+    color: rebeccapurple;
+}
+
+.Histoire_Du_Rap{
+    width: 28%;
+    margin-left: 70%;
+    font-size: 30px;
+    text-align: center;
+    color: purple;
+    background-color: rgba(255, 255, 255, 0.699);
+}
+
+#musique{
+        margin-right: 20%;
+    }
+
+#video{
+    margin-top: 40px;
+    margin-left: 61%;
+}
+
+>>>>>>> 4700f95ab2cc2f3285461a676468e54227a82d87

@@ -34,7 +34,7 @@ header
 body
 {
     font-family: 'berkshire_swashregular';
-    background-image: url(./items/Image/chantal-goya-tmaster_rz7snyz1adofzs-1l-90168550.jpg);
+    background-image: url(./items/Image/fond_rock.jpeg);
     background-color: black;
     background-position: center;
     background-size: cover;
@@ -45,31 +45,43 @@ body
 
 h1
 {
+    background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
+    background-repeat: no-repeat;
     margin-top: 100px;
     margin-left: 5%;
     font-size: 100px;
-    color: pink;
+    color: rgb(221, 218, 218);
 }
 
 .Histoire-Du-Rock
 {   
+    padding: 50px;
     width: 25%;
     margin-top: 150px;
-    margin-left: 72%;
+    margin-left: 66.5%;
     font-size: 23px;
     text-align: justify;
-    color: pink;
+    color: rgb(212, 206, 206);
+    background-color: rgba(0, 0, 0, 0.76);
+    border: 2px solid #020202;
+    border-radius: 20px;
+    box-shadow: 0px 6px 14px #fab711;
+    
 }
 
 .Extrait-Video
 {
     margin-top: 50px;
     margin-left: 64%;
+    box-shadow: 0px 6px 14px #fab711;
+    border-radius: 20px;
 }
 
 .Extrait-Musical
 {
     margin-top: 50px;
     margin-left: 64%;
-    border-radius: 60px
+    box-shadow: 0px 6px 14px #fab711;
+    border-radius: 20px;
+
 }

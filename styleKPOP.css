@@ -111,6 +111,7 @@ h1 {
     color: #0EF1FF;
     text-align: center;
     border-radius: 10px;
+<<<<<<< HEAD
     border : solid rgba(96, 7, 104, 0.65);
 
 }
@@ -118,5 +119,12 @@ h1 {
 .barre_d_écoute{
 
   
+=======
+<<<<<<< HEAD
+    width: 100px;
+=======
+    
+>>>>>>> b07e12fc3f7fed8a7661c84344df6c42caae71bc
+>>>>>>> c4c2f8b0520499711f74e58f55bb28aa76f1843b
 }
 

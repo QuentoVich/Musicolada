@@ -66,11 +66,12 @@ header
 
 #fond{
   background-color: hsl(0, 0%, 0%,0.630);
+  
 }
 h1{ 
-   font-family: "Caslon-Bold";
+    font-family: "Caslon-Bold";
     color:#ffffff;
-    font-size: 5em;
+    font-size: 4em;
     margin: 0px;
     display: flex;
     justify-content: center;
@@ -79,6 +80,7 @@ h1{
     height: 100px;
     background-color: rgba(0, 0, 0, 0.76);
     border-radius: 30px;
+    box-shadow: 2px 2px 8px #FAB711;
     
 }
 .banner{
@@ -112,10 +114,6 @@ body
 }
 
 
-
-
-
-
 /*Style menu ici */
 #menu{
   height: 500px;
@@ -142,6 +140,7 @@ nav li{
   height: 250px;
   width:195px;
   transition: 1.5s;
+  box-shadow: 2px 2px 8px #000000;
 }
 
 li .icone:hover{
