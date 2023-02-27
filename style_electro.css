@@ -13,7 +13,10 @@
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
 /*header*/
-
+*{
+    margin: 0;
+    padding: 0;
+}
 #couche1 {
     width:150px;
       z-index: 1;
@@ -41,6 +44,47 @@ header
 }
 
 /*fin du header*/
+.menu_page{
+    margin-top: 50px;
+}
+.menu_page ul{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.menu_page a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;   
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1.5em;
+    margin-left: 5%;
+    width: 90px;
+    transition: 1s;
+}
+
+.menu_page a:hover{
+    background-color: #ffb8116c;
+    color: white;
+    width: 120px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 15px 10px #FFB711;
+     
+    
+}
+
+ul>*:last-child{
+display: flex;
+justify-self: end;
+margin-left: auto;
+
+}
 
 h2{
     font-size: 40px;
@@ -51,11 +95,10 @@ body{
 	background-attachment: fixed;
 	background-image: url("./items/Image/fond_electro.jpg");
 	Background-repeat: no-repeat;
-	Background-size: cover;
+	background-size: cover;
 	background-position: center;
     background-color: black;
     color:white;
-    text-shadow: 2px 2px 4px white;
     margin: 0px;
 }
 
@@ -97,6 +140,7 @@ font-size: 25px;
 #corps{
     display: flex;
     flex-direction: row-reverse;
+    margin-top: 200px;
 
 }
 
@@ -108,5 +152,49 @@ font-size: 25px;
     margin-left: 10%;
     width: 50%;
     margin-right: 10%;
+    border-radius: 20px;
 }
 
+#soundcloud{
+    margin-top: 100px;
+}
+
+/* footer */
+
+
+footer{
+    background-image: url('./items/VECTORIEL SVG/footer.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    box-shadow: 0px -3px 8px black;
+    margin-top: 4%;
+  }
+  #navpiedpage{
+    display:flex;
+    flex-direction: row;
+    width: 72.5%;  
+  }
+  #noir{
+    margin-left: 3%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+  }
+  #gris{
+    margin-left: 1%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+  }
+  #jaune{
+    margin-left:1%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+    
+  }
+  .afooter{
+    width: 35%;
+  }
