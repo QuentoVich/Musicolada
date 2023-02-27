@@ -68,9 +68,9 @@ header
   background-color: hsl(0, 0%, 0%,0.630);
 }
 h1{ 
-   font-family: "Caslon-Bold";
+    font-family: "Caslon-Bold";
     color:#ffffff;
-    font-size: 5em;
+    font-size: 4em;
     margin: 0px;
     display: flex;
     justify-content: center;
