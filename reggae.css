@@ -141,7 +141,6 @@ nav{
     width: 40%;
     height: 12%;
     margin-left: -2%;
-
     margin-bottom: 10%;
 }
 
@@ -164,11 +163,13 @@ section{
     width: 70%;
     align-self: center;
     margin-left: 1%;
+   
 
 }
 #framev{
     border-radius: 4%;
     box-shadow: 2px 2px 8px black;
+    border: 4px ridge #FAB711;
     
 }
 
@@ -195,7 +196,6 @@ p{
 #play{ 
     position: absolute;
     z-index: 3 ;
-
     height:16%;
     width: 20%;
     margin-top: -6%;
@@ -227,6 +227,9 @@ p{
     margin-top: 2%;
     margin-left: 10%;
     box-shadow: 2px 2px 8px black;
+    border-radius: 20px;
+    border: 4px ridge #FAB711;
+
 }
 
 
