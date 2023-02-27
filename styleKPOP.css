@@ -13,12 +13,12 @@
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
 @font-face {
-    font-family: 'campus_personal_useregular';
-    src: url('campus_personal_use-webfont.woff2') format('woff2'),
-         url('campus_personal_use-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+  font-family: 'berkshire_swashregular';
+  src: url('./items/Font/berkshireswash-regular-webfont.woff2')format('woff2'),
+       url('./items/Font/berkshireswash-regular-webfont.woff')format('woff');
+  font-weight: normal;
+  font-style: normal;
+          }
 
 /* Header*/
 
@@ -27,8 +27,8 @@
 }
 
 #multicouche {
-display: flex;
-justify-content: center;
+  display: flex;
+  justify-content: center;
     
   }
   #multicouche img {
@@ -78,19 +78,23 @@ background-attachment: fixed;
 }
 
 h1 { 
-    font-family: 'campus_personal_useregular'; 
-    color:#000000;
-    background-color: burlywood;
+    font-family: 'berkshire_swashregular';
+    color : white ;
+    margin-left : 50px;
+    position: absolute;
+  
+    
 }
 
 
 .bandeJauneNoire {
   height: 250px;
   width: 250px;
+  
 }
 
 
-#extrait_video {
+.extrait_video {
 
   margin-top: 50px;
   margin-right: 50%;
@@ -100,14 +104,19 @@ h1 {
 
 .texteKpop {
 
-    margin-top: 100px;
-    margin-left: 50%;
-    margin: 50px;
-    background-color: rgba(96, 7, 104, 0.65); ;
+    padding: 50px;
+    background-color: rgba(96, 7, 104, 0.65);
+    font-size :large;
     text-shadow:  2px 2px 2px #000000;
     color: #0EF1FF;
-    text-align: justify;
+    text-align: center;
     border-radius: 10px;
-    
+    border : solid rgba(96, 7, 104, 0.65);
+
+}
+
+.barre_d_écoute{
+
+  
 }
 
