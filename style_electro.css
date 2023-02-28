@@ -95,6 +95,7 @@ ul>*:last-child{
 display: flex;
 justify-self: end;
 margin-left: auto;
+padding: 20px;
 
 }
 h1{
