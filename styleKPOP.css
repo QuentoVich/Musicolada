@@ -75,15 +75,14 @@ background-image: url('./items/Image/kpopv1.png');
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
+
 }
 
-
 #bandeJauneNoire {
-  height: 250px;
-  width: 250px;
-  position: absolute;
-  margin-left: -2%;
-  background-color:blue;
+  height: auto;
+  width: 400px;
+  position: relative;
+  margin-left: -1%;
 }
 
 
@@ -91,9 +90,10 @@ h1 {
     font-family: 'berkshire_swashregular';
     color : white ;
     margin-left : 50px;
+    margin-top: 37px;
     position: absolute;
-  
-    
+    font-size: 60px;
+      
 }
 
 
