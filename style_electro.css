@@ -12,6 +12,17 @@
     font-family: "Caslon-Semibold";
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
+
+@font-face{
+	font-family: 'Gilmer_Light';
+    src: url(./items/Font/Gilmer_Light.ttf);
+}
+
+
+@font-face{
+	font-family: 'Gilmer_Heavy';
+    src: url(./items/Font/Gilmer_Heavy.ttf);
+}
 /*header*/
 *{
     margin: 0;
@@ -67,6 +78,7 @@ header
     margin-left: 5%;
     width: 90px;
     transition: 1s;
+    font-family: 'Gilmer_Heavy';
 }
 
 .menu_page a:hover{
@@ -83,9 +95,14 @@ ul>*:last-child{
 display: flex;
 justify-self: end;
 margin-left: auto;
+padding: 20px;
 
 }
-
+h1{
+    margin-left: 0;
+    padding-left: 0;
+    font-family: 'Gilmer_Heavy';
+}
 h2{
     font-size: 40px;
 }
@@ -108,7 +125,7 @@ font-size: 20px;
 }
 
 .historique{
-
+    font-family: 'Gilmer_Light';
     background-color: rgba(0, 0, 0, 0.486);
     background-size: cover;
     background-position: center;
@@ -128,7 +145,7 @@ align-items: center;
 background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
 background-position: center;
 background-size: cover;
-padding: 1em;
+padding-left: -3;
 margin-top: 100px;
 margin-left: 0px;
 margin-right: auto;
@@ -155,8 +172,14 @@ font-size: 25px;
     border-radius: 20px;
 }
 
-#soundcloud{
-    margin-top: 100px;
+.media {
+    border: solid #FFB711;
+    border-radius: 20px;
+    transition: 1.5s;
+   
+}
+.media:hover{
+    box-shadow: 1px 1px 15px 20px #FFB711;
 }
 
 /* footer */
