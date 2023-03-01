@@ -142,6 +142,8 @@ nav li{
   box-shadow: 2px 2px 8px #000000;
 }
 
+
+
 li .icone:hover{
 height: 400px;
 width:300px;
@@ -152,6 +154,22 @@ width:300px;
   align-items: end;
 
 }
+.son_menu{
+  visibility: hidden;
+  position: absolute;
+  height: 250px;
+  width:195px;
+}
+
+.sound button {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+
+
 
 /*fin menu*/
 

@@ -36,10 +36,11 @@
       <h1>Place à la découverte</h1>
 
       <!--MENU-->
-      <nav>
-        <ul id = menu>
-          <li id="imgreggae">
-            <a href="./reggae.html">
+      <nav id = "menu">
+        <ul class="sounds">
+          <li class="sound">
+            <button><a 
+              href="./reggae.html">
               <img
                 onmouseout="this.src='./items/Image/reggaenb.jpg';"
                 onmouseover="this.src='./items/Image/reggaecolor.jpg';"
@@ -47,11 +48,20 @@
                 alt="icone reggea"
                 class="icone"
               />
-            </a>
+            </a></button>
+            <audio
+                preload="auto"
+                id = "Audio1"
+                class = "son_menu">
+                <source src="./items/Musique/son_reggae.wav" type="audio/wav">
+                Your browser does not support the audio tag.
+            </audio>
           </li>
 
-          <li id="imgk-pop">
-            <a href="./KPOP.html">
+
+
+          <li id="imgk-pop" class="sound">
+            <button><a href="./KPOP.html">
               <img
                 onmouseout="this.src='./items/Image/icone_kpopsb.jpg';"
                 onmouseover="this.src='./items/Image/icone_kpop.jpg';"
@@ -59,11 +69,20 @@
                 alt="icone k-pop"
                 class="icone"
               />
-            </a>
+            </a></button>
+              <audio
+              preload="auto"
+              id = "Audio2"
+              class = "son_menu">
+              <source src="./items/Musique/son_kpop.wav" type="audio/wav">
+                  Your browser does not support the audio tag.
+              </audio>
           </li>
 
-          <li id="imgrap">
-            <a href="./Rap.html">
+
+
+          <li id="imgrap" class="sound">
+            <button><a href="./Rap.html">
               <img
                 onmouseout="this.src='./items/Image/icone_rapsb.png';"
                 onmouseover="this.src='./items/Image/icon_rap.png';"
@@ -71,23 +90,41 @@
                 alt="icone rap"
                 class="icone"
               />
-            </a>
+            </a></button>
+            <audio
+            preload="auto"
+            id = "Audio3"
+            class = "son_menu">
+            <source src="./items/Musique/son_rap.wav" type="audio/wav">
+                Your browser does not support the audio tag.
+            </audio>
           </li>
 
-          <li id="imgrock">
-            <a href="./Rock.html">
-              <img
-                onmouseout="this.src='./items/Image/icone_rocksb.jpg';"
-                onmouseover="this.src='./items/Image/icone_rock.jpg';"
-                src="./items/Image/icone_rocksb.jpg"
-                alt="icone rock"
-                class="icone"
-              />
-            </a>
+
+
+          <li id="imgrock" class="sound">
+            <button><a href="./Rock.html">
+               <img
+                 onmouseout="this.src='./items/Image/icone_rocksb.jpg';"
+                 onmouseover="this.src='./items/Image/icone_rock.jpg';"
+                 src="./items/Image/icone_rocksb.jpg"
+                 alt="icone rock"
+                 class="icone"
+               />
+             </a></button>
+             <audio
+            preload="auto"
+            id = "Audio4"
+            class = "son_menu">
+            <source src="./items/Musique/son_rock.wav" type="audio/wav">
+                Your browser does not support the audio tag.
+            </audio>
           </li>
 
-          <li id="imgelectro">
-            <a href="./Electro.html">
+
+
+          <li id="imgelectro" class="sound">
+            <button><a href="./Electro.html">
               <img
                 onmouseout="this.src='./items/Image/icone_electrosb.png';"
                 onmouseover="this.src='./items/Image/icone_electro.png';"
@@ -95,7 +132,14 @@
                 alt="icone electro"
                 class="icone"
               />
-            </a>
+            </a></button>
+            <audio
+            preload="auto"
+            id = "Audio5"
+            class = "son_menu">
+            <source src="./items/Musique/son_electro.wav" type="audio/wav">
+                Your browser does not support the audio tag.
+            </audio>
           </li>
         </ul>
       </nav>
