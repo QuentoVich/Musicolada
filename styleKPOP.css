@@ -31,6 +31,7 @@
   justify-content: center;
     
   }
+
   #multicouche img {
     align-items: center;
     top: 0;
@@ -46,6 +47,7 @@
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
   }
   .animated.hinge:hover {
     -webkit-animation-duration: 2s;
@@ -148,13 +150,59 @@ header
     height: 200px;
     box-shadow: 0px 3px 8px black;
 }
+
 #bandeblanc{
     background-color: white;
     height: 5px;
     box-shadow: 0px 2px 8px black;
-    margin-bottom: 200px;
+
   }
 
+  nav{
+    width: 100%;
+    height:10%;
+}
+  .pageMenu{
+    margin-top: 50px;
+}
+.pageMenu ul{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.pageMenu a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1.5em;
+    margin-left: 5%;
+    width: 90px;
+    transition: 1s;
+}
+
+.pageMenu a:hover{
+    background-color: #ffb8116c;
+    color: white;
+    width: 120px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 15px 10px #FFB711;
+
+
+}
+
+ul>*:last-child{
+  display: flex;
+  justify-self: end;
+  margin-left: auto;
+  
+  }
 
 body {
 background-image: url('./items/Image/kpopv1.png');
@@ -204,8 +252,10 @@ h1 {
     border : solid rgba(96, 7, 104, 0.65);
 }
 
-#barreSon {
-  border-radius: 20px;
+.casqueSon {
+  background-color:red;
+  display: flex;
+
 }
 
 
