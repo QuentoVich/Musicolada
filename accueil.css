@@ -33,6 +33,99 @@ justify-content: center;
   width:150px;
     z-index: 1;
   }
+   /* debut animation logo survole */
+    
+.animated:hover {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+
+.animated.hinge:hover {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
+
+/*the animation definition*/
+
+@-webkit-keyframes wobble {
+  0% {
+    -webkit-transform: none;
+    transform: none
+  }
+  15% {
+    -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+  }
+  30% {
+    -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+  }
+  45% {
+    -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+  }
+  60% {
+    -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+  }
+  75% {
+    -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+  }
+  100% {
+    -webkit-transform: none;
+    transform: none
+  }
+}
+
+@keyframes wobble {
+  0% {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+  }
+  15% {
+    -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    -ms-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+  }
+  30% {
+    -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    -ms-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+  }
+  45% {
+    -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    -ms-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+  }
+  60% {
+    -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    -ms-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+  }
+  75% {
+    -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    -ms-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+  }
+  100% {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+  }
+}
+
+.wobble:hover {
+  -webkit-animation-name: wobble;
+  animation-name: wobble
+}
+
+
+     /* fin animation */
    
   #couche2 {   
     
@@ -57,17 +150,13 @@ header
     
 #bandeblanc{
   background-color: white;
-  height: 5px;
-  box-shadow: 0px 2px 8px black;
-  margin-bottom: 200px;
+  height: 9px;
+  box-shadow: 0px 2px 8px #FAB711;
 }
 
 /*fin du header*/
 
-#fond{
-  background-color: hsl(0, 0%, 0%,0.630);
-  
-}
+
 h1{ 
     font-family: "Caslon-Bold";
     color:#ffffff;
@@ -84,6 +173,7 @@ h1{
     
 }
 .banner{
+  margin-top: 5%;
   box-shadow: 0px 1px 10px #FAB711;
 }
 
@@ -103,10 +193,37 @@ body
 	Background-size: cover;
 	background-position: center;
 }
-
-#fond{
-  background:linear-gradient(45deg, rgb(0, 0, 0,0.630)30%,rgb(250, 183, 17,0.400) 50%, rgb(0, 0, 0,0.630))30%;
-}
+  /* fond animé */
+  
+  .bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #000000 50%, #FAB711 50%);
+    bottom:0;
+    left:-50%;
+    opacity:20%;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+  }
+  
+  .bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:5s;
+  }
+  
+  .bg3 {
+    animation-duration:5s;
+  }
+  @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+  }
+  /* fin fond animé */
 
 .banner{
   box-shadow: 0px 1px 10px rgb(250, 183, 17);
@@ -142,6 +259,8 @@ nav li{
   box-shadow: 2px 2px 8px #000000;
 }
 
+
+
 li .icone:hover{
 height: 400px;
 width:300px;
@@ -152,6 +271,22 @@ width:300px;
   align-items: end;
 
 }
+.son_menu{
+  visibility: hidden;
+  position: absolute;
+  height: 250px;
+  width:195px;
+}
+
+.sound button {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+
+
 
 /*fin menu*/
 

@@ -31,17 +31,100 @@
     width:150px;
       z-index: 1;
     }
-     #couche1:hover{
-      width:100px;
-      -webkit-filter: grayscale(100%);
-      filter: grayscale(100%);
-      -webkit-transition: .3s ease-in-out;
-      transition: .3s ease-in-out;
-      
-     }
-    #couche2 {   
-      
-     
+     /* debut animation logo survole */
+    
+.animated:hover {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+
+.animated.hinge:hover {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
+
+/*the animation definition*/
+
+@-webkit-keyframes wobble {
+  0% {
+    -webkit-transform: none;
+    transform: none
+  }
+  15% {
+    -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+  }
+  30% {
+    -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+  }
+  45% {
+    -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+  }
+  60% {
+    -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+  }
+  75% {
+    -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+  }
+  100% {
+    -webkit-transform: none;
+    transform: none
+  }
+}
+
+@keyframes wobble {
+  0% {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+  }
+  15% {
+    -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    -ms-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+  }
+  30% {
+    -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    -ms-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+  }
+  45% {
+    -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    -ms-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+  }
+  60% {
+    -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    -ms-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+  }
+  75% {
+    -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    -ms-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+  }
+  100% {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+  }
+}
+
+.wobble:hover {
+  -webkit-animation-name: wobble;
+  animation-name: wobble
+}
+
+
+     /* fin animation */
+    #couche2 {     
       z-index: 2;
     }
   
@@ -93,21 +176,6 @@ body{
   .bg3 {
     animation-duration:5s;
   }
-  
-  .content {
-    background-color:rgba(255,255,255,.8);
-    border-radius:.25em;
-    box-shadow:0 0 .25em rgba(0,0,0,.25);
-    box-sizing:border-box;
-    left:50%;
-    padding:10vmin;
-    position:fixed;
-    text-align:center;
-    top:50%;
-    transform:translate(-50%, -50%);
-  }
-  
-
   
   @keyframes slide {
     0% {
@@ -179,8 +247,6 @@ margin-left: auto;
     height: 100%;
     flex-wrap: wrap;  
 }
-/* menu */
-
 
 /* titre du genre musicale */
 #titre{
@@ -209,7 +275,6 @@ section{
     margin-left: 1%;
     height:60%;
     margin-top: 4%;
-    
 }
 #framev{
     border-radius: 4%;
@@ -217,6 +282,7 @@ section{
     border: 4px ridge #FAB711; 
     padding: 0.5%;
 }
+/* zoom image grisées */
 #boximages{
   display: flex;
   width: 100%;
@@ -246,6 +312,13 @@ section{
   border: 4px ridge #FAB711;
   padding: 0.5%;
 }
+/* paragraphe */
+h2{
+  text-align: center;
+  color: #FAB711;
+  font-size: 250%;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
 #para{
     position: relative;
     background-color: rgba(0, 0, 0, 0.687);
@@ -264,6 +337,7 @@ p{
     color: rgb(255, 255, 255);
     text-align: center;
 }
+/* logo play */
 #play{ 
     position: absolute;
     z-index: 3 ;
@@ -320,10 +394,10 @@ p{
     width: 80px;
 }
     
-    #texteretour{
-      font-style: oblique;
-      text-align: left;
-      text-shadow: 1px 1px 2px  #FAB711;
+#texteretour{
+  font-style: oblique;
+  text-align: left;
+    text-shadow: 1px 1px 2px  #FAB711;
       margin-top: -3%;
       color: #000000;
     }
@@ -338,7 +412,7 @@ footer{
   background-size: cover;
   width: 100%;
   box-shadow: 0px -3px 8px black;
-  margin-top: 20%;
+  margin-top: 25%;
 }
 #navpiedpage{
   display:flex;
@@ -369,7 +443,7 @@ footer{
 }
   
 /*scrollbar  */
-  ::-webkit-scrollbar{
+::-webkit-scrollbar{
     width: 8px;
 }
 ::-webkit-scrollbar-track{
