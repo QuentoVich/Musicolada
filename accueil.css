@@ -151,16 +151,12 @@ header
 #bandeblanc{
   background-color: white;
   height: 5px;
-  box-shadow: 0px 2px 8px black;
-  margin-bottom: 200px;
+  box-shadow: 0px 2px 8px #FAB711;
 }
 
 /*fin du header*/
 
-#fond{
-  background-color: hsl(0, 0%, 0%,0.630);
-  
-}
+
 h1{ 
     font-family: "Caslon-Bold";
     color:#ffffff;
@@ -177,6 +173,7 @@ h1{
     
 }
 .banner{
+  margin-top: 5%;
   box-shadow: 0px 1px 10px #FAB711;
 }
 
@@ -196,10 +193,37 @@ body
 	Background-size: cover;
 	background-position: center;
 }
-
-#fond{
-  background:linear-gradient(45deg, rgb(0, 0, 0,0.630)30%,rgb(250, 183, 17,0.400) 50%, rgb(0, 0, 0,0.630))30%;
-}
+  /* fond animé */
+  
+  .bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #000000 50%, #FAB711 50%);
+    bottom:0;
+    left:-50%;
+    opacity:20%;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+  }
+  
+  .bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:5s;
+  }
+  
+  .bg3 {
+    animation-duration:5s;
+  }
+  @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+  }
+  /* fin fond animé */
 
 .banner{
   box-shadow: 0px 1px 10px rgb(250, 183, 17);
