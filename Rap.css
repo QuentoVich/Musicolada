@@ -37,9 +37,7 @@ body{
     background-image: url(./items/Image/fond_rap.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-}
-
-#conteneur{
+    background-attachment: fixed;
 }
 
 h1
@@ -59,11 +57,14 @@ h1
     background-color: rgba(255, 255, 255, 0.699);
 }
 
-#musique{
-        margin-right: 20%;
-    }
+#textevideomusic{
+    background-color: red;
+}
 
-#video{
-    margin-top: 40px;
-    margin-left: 61%;
+#textevideo{
+    background-color: blue;
+}
+
+#conteneur{
+    display: flex; 
 }
