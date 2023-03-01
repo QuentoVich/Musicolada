@@ -10,12 +10,11 @@
 <body>
 
     <header id="multicouche">
-        <a href="./index.html"
-          ><img
-            id="couche1"
-            src="./items/VECTORIEL SVG/logomusicolada.svg"
-            alt="logo musicolada"
-        /></a>
+        <a href="./index.html">
+          <img id="couche1" 
+          src="./items/VECTORIEL SVG/logomusicolada.svg" class="wobble animated" data-anijs="if: mouseover, do: wobble animated"alt="logo musicolada"/>
+            
+        </a>
       </header>
       <div id="bandeblanc"></div>
 
@@ -26,7 +25,7 @@
         <a href="./Rap.html">Rap</a>
         <a href="./Rock.html">Rock</a>
         <a href="./Electro.html">Electro</a>
-        <a href="./copyright.html">Copyright</a>
+        <a href="./copyright.html"class="Copyright">copyright</a>
         </ul>
 
     </nav>
@@ -70,13 +69,81 @@
                 <img src="./items/VECTORIEL SVG/casque.svg" alt ="casque" width="100" height="100">
             </div>
 
+
+            <div id="barreSon">
             <iframe width="50%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/521244330&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true%22%3E"></iframe>
-        
+             </div>
         
     </main>
     <footer>
+        <nav id="navpiedpage">
+            <div id="noir">
+            <a href="https://fr-fr.facebook.com/" class="afooter">
+            <img
+            onmouseout="this.src='./items/VECTORIEL SVG/facebook.svg';"
+             onmouseover="this.src='./items/VECTORIEL SVG/facebooknb.svg';"
+            src="./items/VECTORIEL SVG/facebook.svg"
+            alt="facebook"
+             id="boutonfooter"
+            />
+            </a>
+            <a href="https://twitter.com/" class="afooter">
+            <img
+                onmouseout="this.src='./items/VECTORIEL SVG/twitter.svg';"
+                onmouseover="this.src='./items/VECTORIEL SVG/twitternb.svg';"
+            src="./items/VECTORIEL SVG/twitter.svg"
+            alt="twitter"
+            id="boutonfooter"
+            />
+            </a>
+            </div>
 
-    </footer>
+            <div id="gris">
+            <a href="https://www.instagram.com/" class="afooter">
+            <img
+                 onmouseout="this.src='./items/VECTORIEL SVG/instagram.svg';"
+                onmouseover="this.src='./items/VECTORIEL SVG/instagramnb.svg';"
+            src="./items/VECTORIEL SVG/instagram.svg"
+            alt="instagram"
+            id="boutonfooter"
+             />
+            </a>
+            <a href="https://www.tiktok.com/fr" class="afooter">
+             <img
+                 onmouseout="this.src='./items/VECTORIEL SVG/tiktok.svg';"
+                onmouseover="this.src='./items/VECTORIEL SVG/tiktoknb.svg';"
+            src="./items/VECTORIEL SVG/tiktok.svg"
+            alt="tiktok"
+            id="boutonfooter"
+            /> 
+            </a>
+            </div>
+            <div id="jaune">
+            <a href="https://fr.linkedin.com/" class="afooter">
+            <img
+            onmouseout="this.src='./items/VECTORIEL SVG/linkdin.svg';"
+            onmouseover="this.src='./items/VECTORIEL SVG/linkdinnb.svg';"
+            src="./items/VECTORIEL SVG/linkdin.svg"
+            alt="linkdin"
+            id="boutonfooter"
+            />
+            </a>
+            <a href="https://www.snapchat.com/" class="afooter">
+            <img
+            onmouseout="this.src='./items/VECTORIEL SVG/snapchat.svg';"
+            onmouseover="this.src='./items/VECTORIEL SVG/snapchatnb.svg';"
+            src="./items/VECTORIEL SVG/snapchat.svg"
+            alt="snapchat"
+            id="boutonfooter"
+             />
+            </a>
+            </div>
+        </nav>
+
+</footer>
     
 </body>
+
+<script src="./feuille.js"></script>
+
 </html>
