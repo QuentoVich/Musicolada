@@ -192,6 +192,7 @@ body{
 }
   .menu_page{
     margin-top: 50px;
+    margin-bottom: -8%;
 }
 .menu_page ul{
     display: flex;
@@ -213,6 +214,7 @@ body{
     margin-left: 5%;
     width: 90px;
     transition: 1s;
+    box-shadow: 2px 2px 8px #000000;
 }
 
 .menu_page a:hover{
@@ -232,7 +234,9 @@ margin-left: auto;
 
 }
 
-  
+#ban{
+  width: 100%;
+}
   /* barre header */
  #bandeblanc{
     background-color: white;
@@ -248,6 +252,20 @@ margin-left: auto;
     flex-wrap: wrap;  
 }
 
+#gifb{
+  display:flex;
+  background-color: #000000;
+  justify-content: center;
+  width: 100%;
+  box-shadow: 2px 2px 8px #000000;
+  
+}
+#ban{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  width: 100%;
+  justify-content: center;
+}
 /* titre du genre musicale */
 #titre{
     width: 40%;
@@ -407,12 +425,13 @@ p{
 
 
 footer{
+  display: block;
   background-image: url('./items/VECTORIEL SVG/footer.svg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   box-shadow: 0px -3px 8px black;
-  margin-top: 25%;
+  margin-top: 42%;
 }
 #navpiedpage{
   display:flex;
