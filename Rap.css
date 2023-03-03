@@ -49,22 +49,27 @@ h1
 }
 
 .Histoire_Du_Rap{
-    width: 28%;
-    margin-left: 70%;
+    width: 40%;
     font-size: 30px;
     text-align: center;
     color: purple;
     background-color: rgba(255, 255, 255, 0.699);
+    margin-bottom: 30%;
 }
 
 #textevideomusic{
+    display: flex;
     background-color: red;
 }
 
 #textevideo{
+    display: flex;
+    flex-direction: column;
+    /* ou faire un Center */
+    align-items: flex-end;
+    margin-right: 5%;
     background-color: blue;
 }
-
-#conteneur{
-    display: flex; 
+#video{
+    
 }
