@@ -232,7 +232,7 @@ body
 
 /*Style menu ici */
 #menu{
-  height: 500px;
+  height: 1000px;
   display: flex;
   justify-content: center;
   margin-bottom: 150px;
@@ -253,8 +253,8 @@ nav li{
 
 .icone{
   border-radius: 90px;
-  height: 250px;
-  width:195px;
+  height: 445px;
+  width:330px;
   transition: 1.5s;
   box-shadow: 2px 2px 8px #000000;
 }
@@ -262,8 +262,8 @@ nav li{
 
 
 li .icone:hover{
-height: 400px;
-width:300px;
+height: 500px;
+width:370px;
 }
 
 #menu #imgk-pop,#imgrock{
