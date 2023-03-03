@@ -76,7 +76,7 @@ header
     padding: 10px;
     font-size: 1.5em;
     margin-left: 5%;
-    width: 90px;
+    width: 120px;
     transition: 1s;
     font-family: 'Gilmer_Heavy';
 }
@@ -84,7 +84,7 @@ header
 .menu_page a:hover{
     background-color: #ffb8116c;
     color: white;
-    width: 120px;
+    width: 150px;
     border-radius: 40px;
     box-shadow: 1px 1px 15px 10px #FFB711;
      
@@ -96,6 +96,7 @@ display: flex;
 justify-self: end;
 margin-left: auto;
 padding: 20px;
+margin-right: 5%;
 
 }
 h1{
@@ -106,19 +107,36 @@ h1{
     font-size: 3em;
 }
 
+.electro{
+display: flex;
+justify-content: start;
+align-items: center;
+background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
+background-position: center;
+background-size: cover;
+margin-top: 100px;
+margin-left: 0px;
+margin-right: auto;
+width:700px;
+height: 300px;
+font-size: 25px;
+}
 
 
 #caroussel{
     height: 20%;
     width: 80%;
-    margin: auto;
+    margin: 100px auto auto auto;
+   
 }
 #caroussel h5{
     font-size: 4em;
+    color: #FFB711;
 }
 #caroussel p{
     font-size: 2em;
     color: rgb(255, 255, 255);
+    color: #FFB711;
 }
 
 h2{
@@ -158,21 +176,6 @@ color: aliceblue;
     margin-left: auto;
 }
 
-.electro{
-display: flex;
-justify-content: start;
-align-items: center;
-background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
-background-position: center;
-background-size: cover;
-padding-left: -3;
-margin-top: 100px;
-margin-left: 0px;
-margin-right: auto;
-width:400px;
-height: auto;
-font-size: 25px;
-}
 
 #corps{
     display: flex;
@@ -192,12 +195,18 @@ font-size: 25px;
     border-radius: 20px;
 }
 
+
+
+
 .media {
     border: solid #FFB711;
     border-radius: 20px;
     transition: 1.5s;
-   
 }
+
+
+
+
 .media:hover{
     box-shadow: 1px 1px 15px 20px #FFB711;
 }
