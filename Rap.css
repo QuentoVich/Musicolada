@@ -1,9 +1,7 @@
 @font-face {
-    font-family: 'rubik';
-    src: url('./items/Font/rubik-regular-webfont.woff2')format('woff2'),
-         url('./items/Font/rubik-regular-webfont.woff')format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: rubik;
+    src: url(./items/Font/rubik-regular-webfont.woff2)format(woff2),
+         url(./items/Font/rubik-regular-webfont.woff)format(woff);
             }
 #couche1 
 {
@@ -30,41 +28,69 @@ header
     box-shadow: 0px 3px 8px black;
 }
 h1{
-    background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
-    background-repeat: no-repeat;
+    font-family: ;
+    margin-left: 0;
+    padding-left: 0;
+    color: rebeccapurple;
+    font-size: 9em;
+}
+
+.rap{
+display: flex;
+justify-content: start;
+align-items: center;
+background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
+background-position: center;
+background-size: cover;
+margin-top: 100px;
+margin-left: 0px;
+margin-right: auto;
+width:500px;
+height: 200px;
+font-size: 14px;
 }
 body{
+    font-family: ;
     background-image: url(./items/Image/fond_rap.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
-h1
-{
-    margin-top: 30px;
-    margin-left: 2%;
-    font-size: 90px;
-    color: rebeccapurple;
-}
-
 .Histoire_Du_Rap{
-    width: 28%;
-    margin-left: 70%;
-    font-size: 30px;
+    width: 100%;
+    font-size: 35px;
     text-align: center;
     color: purple;
     background-color: rgba(255, 255, 255, 0.699);
+    margin-bottom: 50%;
+    box-shadow: 20px 30px 10px;
 }
 
-#textevideomusic{
-    background-color: red;
+#textevideomusic{ 
+    display:flex;
+    /* background-color: rgb(255, 0, 0); */
+   
 }
-
 #textevideo{
-    background-color: blue;
+    display:flex;
+    flex-direction: column;
+    align-items: flex-end;
+    /* background-color: rgb(4, 0, 255);  */
+    margin-right: 5%;
+    width: 30%;
+    height:auto;
+}
+#test{
+    display: flex;
+    margin-bottom: 30%;
+   
 }
 
-#conteneur{
-    display: flex; 
-}
+#son{
+    align-self:center ;
+    /* background-color:chartreuse; */
+    width: 50%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    }
