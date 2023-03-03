@@ -31,6 +31,7 @@
   justify-content: center;
     
   }
+
   #multicouche img {
     align-items: center;
     top: 0;
@@ -41,7 +42,94 @@
   width:150px;
     z-index: 1;
   }
-   
+  
+  .animated:hover {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  .animated.hinge:hover {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+  }
+  
+  /*the animation definition*/
+  
+  @-webkit-keyframes wobble {
+    0% {
+      -webkit-transform: none;
+      transform: none
+    }
+    15% {
+      -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+      transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+    }
+    30% {
+      -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+      transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+    }
+    45% {
+      -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+      transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+    }
+    60% {
+      -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+      transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+    }
+    75% {
+      -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+      transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+    }
+    100% {
+      -webkit-transform: none;
+      transform: none
+    }
+  }
+  
+  @keyframes wobble {
+    0% {
+      -webkit-transform: none;
+      -ms-transform: none;
+      transform: none
+    }
+    15% {
+      -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+      -ms-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+      transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+    }
+    30% {
+      -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+      -ms-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+      transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+    }
+    45% {
+      -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+      -ms-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+      transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+    }
+    60% {
+      -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+      -ms-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+      transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+    }
+    75% {
+      -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+      -ms-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+      transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+    }
+    100% {
+      -webkit-transform: none;
+      -ms-transform: none;
+      transform: none
+    }
+  }
+  
+  .wobble:hover {
+    -webkit-animation-name: wobble;
+    animation-name: wobble
+  }
+  
   #couche2 {   
     
    
@@ -62,13 +150,59 @@ header
     height: 200px;
     box-shadow: 0px 3px 8px black;
 }
+
 #bandeblanc{
     background-color: white;
     height: 5px;
     box-shadow: 0px 2px 8px black;
-    margin-bottom: 200px;
+
   }
 
+  nav{
+    width: 100%;
+    height:10%;
+}
+  .pageMenu{
+    margin-top: 50px;
+}
+.pageMenu ul{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.pageMenu a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1.5em;
+    margin-left: 5%;
+    width: 90px;
+    transition: 1s;
+}
+
+.pageMenu a:hover{
+    background-color: #ffb8116c;
+    color: white;
+    width: 120px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 15px 10px #FFB711;
+
+
+}
+
+ul>*:last-child{
+  display: flex;
+  justify-self: end;
+  margin-left: auto;
+  
+  }
 
 body {
 background-image: url('./items/Image/kpopv1.png');
@@ -99,16 +233,13 @@ h1 {
 #VideoTexte {
   background-color:gold;
   display: flex;
-  justify-content:space-around;
 }
 
 
 #extraitVideo {
-  background-color:cornflowerblue;
   margin-top: 50px;
-  margin-right: 50%;
-  margin: 50px;
-
+  margin-right: 50px;
+  
 }
 
 .texteKpop {
@@ -119,7 +250,48 @@ h1 {
     text-align: center;
     border-radius: 10px;
     border : solid rgba(96, 7, 104, 0.65);
+}
 
+.casqueSon {
+  background-color:red;
+  display: flex;
 
 }
 
+
+footer{
+  background-image: url('./items/VECTORIEL SVG/footer.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height:100%;
+  box-shadow: 0px -3px 8px black;
+  margin-top: 4%;
+}
+#navpiedpage{
+  display:flex;
+  flex-direction: row;
+  width: 72.5%;  
+}
+#noir{
+  margin-left: 3%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
+}
+#gris{
+  margin-left: 1%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
+}
+#jaune{
+  margin-left:1%;
+  display:flex;
+  width:35% ;
+  justify-content: space-around;
+  
+}
+.afooter{
+  width: 35%;
+}
