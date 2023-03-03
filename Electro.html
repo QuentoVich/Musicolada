@@ -9,17 +9,17 @@
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Musicolada Electro</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link href="./style_electro.css" rel="stylesheet" />
   </head>
 
   <body>
     <header id="multicouche">
       <a href="./index.html"
-        ><img
-          id="couche1"
-          src="./items/VECTORIEL SVG/logomusicolada.svg"
-          alt="logo musicolada"
-      /></a>
+          ><img id="couche1" src="./items/VECTORIEL SVG/logomusicolada.svg" class="wobble animated" data-anijs="if: mouseover, do: wobble animated" alt="logo musicolada"/>
+        </a>
+      </header>
+      
     </header>
     <div id="bandeblanc"></div>
 
@@ -27,7 +27,7 @@
 
 <video width="100%" autoplay loop> <source src="./items/Image/spectre_electro.mp4"></video>
 
-
+<!--  -->
     <nav class="menu_page">
       <ul>
         
@@ -42,8 +42,55 @@
     </nav>
 
     <div class="electro">
-      <h1>L'electro</h1>
+      <h1>ELECTRO</h1>
     </div>
+
+
+    <section id="caroussel">
+
+    
+    <div id="carouselExampleCaptions" class="carousel slide">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="./items/Image/fred_again.jpg" class="d-block w-100" alt="photo fred again">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Fred Again</h5>
+            <p>Valeur montante de l'électro, Fred Again poursuit, avec l'album Actual Life 3, sa quête d'une musique à la fois pointue et populaire.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="./items/Image/salvatore_ganacci.png" class="d-block w-100" alt="photo salvatore">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Salavator Ganacci</h5>
+            <p>Le DJ du buzz débarque aujourd'hui avec son tout premier album "Culturally Appropriate".</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="./items/Image/skrillex.jpg" class="d-block w-100" alt="photo salvatore ganacci">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Skrillex</h5>
+            <p>Le DJ fait son grand retour musical avec le tonitruant "Butterflies".</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </section>
+
+
+
     <section id="corps">
       <div class="historique">
         <h2>L'historique</h2>
@@ -75,7 +122,7 @@
         <iframe 
           class="media"
           width="100%"
-          height="315"
+          height="510"
           src="https://www.youtube.com/embed/uvImvpwJXzo"
           title="YouTube video player"
           frameborder="0"
@@ -91,7 +138,7 @@
           scrolling="no"
           frameborder="no"
           allow="autoplay"
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1445745274&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"<div
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1445745274&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
           style="
             font-size: 10px;
             color: #cccccc;
@@ -120,8 +167,8 @@
             style="color: #cccccc; text-decoration: none"
             >Mind Set (Album Teaser). By QuentoVich</a
           >
-        </div>
-        ></iframe>
+
+        </iframe>
         
       </div>
     </section>
@@ -196,6 +243,6 @@
       </nav>
     </footer>
 
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
   </body>
 </html>
