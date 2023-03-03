@@ -146,6 +146,7 @@ header
 }
 
 /*fin du header*/
+/* début du menu page */
 .menu_page{
     margin-top: 50px;
 }
@@ -188,7 +189,7 @@ justify-self: end;
 margin-left: auto;
 padding: 20px;
 margin-right: 5%;
-
+/* fin du menu page */
 }
 h1{
     margin-left: 0;
