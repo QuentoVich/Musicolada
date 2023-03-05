@@ -233,16 +233,39 @@ h1 {
 #VideoTexte {
   background-color:gold;
   display: flex;
+  margin-right: 80px;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
 }
 
 
 #extraitVideo {
+  padding: 50px;
   margin-top: 50px;
-  margin-right: 50px;
-  
+  padding-left: 50px;  
+}
+
+#vidéo {
+  padding:5px ;
+  border : solid #0EF1FF; 
+  border-radius: 10px;
+}
+#photosGroupes{
+  display:flex;
+  background-color:darkblue;
+}
+.image1 {
+  font-family:'berkshire_swashregular';
+  border-radius: 10px;
+  border : solid rgba(96, 7, 104, 0.65);
+  text-align: center;
+  padding :5px;
 }
 
 .texteKpop {
+    font-family:'berkshire_swashregular';
     background-color: rgba(96, 7, 104, 0.65);
     font-size :large;
     text-shadow:  2px 2px 2px #000000;
@@ -250,14 +273,33 @@ h1 {
     text-align: center;
     border-radius: 10px;
     border : solid rgba(96, 7, 104, 0.65);
-}
+    margin-right: 100px;
+    margin-left: 250px;
+    padding: 20px;
+  }
 
+p {
+
+}
 .casqueSon {
   background-color:red;
+  margin-left:50px;
+  margin-right:80px;
   display: flex;
+  
 
 }
+#barreSon {
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+}
 
+#son{
+  margin: 50px;
+  width: 100%;
+  height: 500px ;
+}
 
 footer{
   background-image: url('./items/VECTORIEL SVG/footer.svg');
