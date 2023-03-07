@@ -27,6 +27,8 @@ header
     height: 200px;
     box-shadow: 0px 3px 8px black;
 }
+
+
 h1{
     font-family: ;
     margin-left: 0;
@@ -35,6 +37,7 @@ h1{
     font-size: 9em;
 }
 
+
 .rap{
 display: flex;
 justify-content: start;
@@ -42,13 +45,14 @@ align-items: center;
 background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
 background-position: center;
 background-size: cover;
-margin-top: 100px;
+margin-top: 150px;
 margin-left: 0px;
 margin-right: auto;
 width:500px;
 height: 200px;
 font-size: 14px;
 }
+
 body{
     font-family: ;
     background-image: url(./items/Image/fond_rap.jpg);
@@ -67,11 +71,13 @@ body{
     box-shadow: 20px 30px 10px;
 }
 
+
 #textevideomusic{ 
     display:flex;
     /* background-color: rgb(255, 0, 0); */
    
 }
+
 #textevideo{
     display:flex;
     flex-direction: column;
@@ -81,11 +87,13 @@ body{
     width: 30%;
     height:auto;
 }
+
 #test{
     display: flex;
     margin-bottom: 30%;
    
 }
+
 
 #son{
     align-self:center ;
@@ -94,3 +102,89 @@ body{
     margin-right: 20%;
     margin-bottom: 20%;
     }
+    nav{
+    width: 100%;
+    height:10%;
+}
+  .menu_page{
+    margin-top: 50px;
+    margin-bottom: -8%;
+    background-color: rgba(253, 252, 253, 0.125);
+}
+.menu_page ul{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.menu_page a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;   
+    text-decoration: none;
+    font-family: 'Gilmer_Heavy';
+    color: rgb(0, 0, 0);
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1.3em;
+    margin-left: 5%;
+    width: 90px;
+    transition: 1s;
+    box-shadow: 2px 2px 8px #000000;
+    background-color: rgb(228, 169, 32);
+}
+
+.menu_page a:hover{
+    background-color: #ffb8116c;
+    color: white;
+    width: 120px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 15px 10px #FFB711;
+     
+    
+}
+
+ul>*:last-child{
+display: flex;
+justify-self: end;
+margin-left: auto;
+margin-right: 5%;
+}
+
+footer{
+    background-image: url('./items/VECTORIEL SVG/footer.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    box-shadow: 0px -3px 8px black;
+  }
+  #navpiedpage{
+    display:flex;
+    flex-direction: row;
+    width: 72.5%;  
+  }
+  #noir{
+    margin-left: 3%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+  }
+  #gris{
+    margin-left: 1%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+  }
+  #jaune{
+    margin-left:1%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+    
+  }
+  .afooter{
+    width: 35%;
+  }
