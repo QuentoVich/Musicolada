@@ -213,7 +213,7 @@ display: flex;
   .bananim
 {
   width: 100%;
-  padding-top: 530px;
+  padding-top:100px;
 }
 
 h1
@@ -234,7 +234,7 @@ h1
 {   
     padding: 50px;
     width: 25%;
-    margin-top: 150px;
+    margin-top: 50px;
     margin-left: 66.5%;
     font-size: 23px;
     text-align: justify;
