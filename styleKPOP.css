@@ -383,23 +383,17 @@ h1 {
 
 /* class casque son */
 .casqueSon {
-  background-color:red;
+  /* background-color:red; */
   margin-left:50px;
-  margin-right:80px;
-  display: flex;
-  
+  margin-right:80px;  
 }
-#barreSon {
-  border-radius: 20px;  
+#Son {
+  border-radius: 20px; 
+  box-shadow:0px 12px 20px 7px#000000;
+  display: flex;
+  justify-content: center;
 }
 
-#son{
-  margin: 50px;
-  width: 20%;
-  height: auto;
-  margin-left: 20%;
-  margin-right: 20%;
-}
 
 /* flèche retour en haut */
 #fleche{
