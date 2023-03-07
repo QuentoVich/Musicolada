@@ -43,14 +43,46 @@ body
     margin: 0px;
 }
 
+.bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #000000 50%, #706e6a 50%);
+    bottom:0;
+    left:-50%;
+    opacity:20%;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+  }
+
+  .bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:5s;
+  }
+
+  .bg3 {
+    animation-duration:5s;
+  }
+
+  @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+  }
+
 h1
 {
     background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
     background-repeat: no-repeat;
-    margin-top: 100px;
-    margin-left: 5%;
-    font-size: 100px;
+    margin-top: -20px;
+    margin-left: 7px;
+    font-size: 150px;
     color: rgb(221, 218, 218);
+    
+    
 }
 
 .Histoire-Du-Rock
@@ -65,7 +97,7 @@ h1
     background-color: rgba(0, 0, 0, 0.76);
     border: 2px solid #020202;
     border-radius: 20px;
-    box-shadow: 0px 6px 14px #fab711;
+    box-shadow: 0px 12px 20px 7px #fab711;
     
 }
 
@@ -73,15 +105,52 @@ h1
 {
     margin-top: 50px;
     margin-left: 64%;
-    box-shadow: 0px 6px 14px #fab711;
+    box-shadow: 0px 12px 20px 7px #fab711;
     border-radius: 20px;
+    background-color: #020202;
 }
 
 .Extrait-Musical
 {
     margin-top: 50px;
     margin-left: 64%;
-    box-shadow: 0px 6px 14px #fab711;
+    box-shadow: 0px 12px 20px 7px #fab711;
     border-radius: 20px;
-
 }
+footer{
+    background-image: url('./items/VECTORIEL SVG/footer.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    box-shadow: 0px -3px 24px #fab711;
+    margin-top: 4%;
+  }
+  #navpiedpage{
+    display:flex;
+    flex-direction: row;
+    width: 72.5%;  
+  }
+  #noir{
+    margin-left: 3%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+  }
+  #gris{
+    margin-left: 1%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+  }
+  #jaune{
+    margin-left:1%;
+    display:flex;
+    width:35% ;
+    justify-content: space-around;
+    
+  }
+  .afooter{
+    width: 35%;
+  }
+  

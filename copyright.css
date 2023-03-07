@@ -13,7 +13,6 @@
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
 /* Header*/
-
 *{
   margin: 0;
 }
@@ -150,9 +149,8 @@ header
     
 #bandeblanc{
   background-color: white;
-  height: 5px;
-  box-shadow: 0px 2px 8px black;
-  margin-bottom: 200px;
+  height: 9px;
+  box-shadow: 0px 2px 8px #FAB711;
 }
 
 /*fin du header*/
@@ -199,28 +197,106 @@ body{
       transform:translateX(25%);
     }
   }
+  nav{
+    width: 100%;
+    height:10%;
+}
+  .menu_page{
+    margin-top: 50px;
+}
+.menu_page ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -6%;
+}
+
+.menu_page a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;   
+    text-decoration: none;
+    font-family: 'Gilmer_Heavy';
+    color: rgb(0, 0, 0);
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1.3em;
+    margin-left: 5%;
+    width: 90px;
+    transition: 1s;
+    box-shadow: 2px 2px 8px #000000;
+}
+
+.menu_page a:hover{
+    background-color: #ffb8116c;
+    color: white;
+    width: 120px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 15px 10px #FFB711;
+     
+    
+}
+
+
+
   /* fin fond animé */
   
   .banner{
-    box-shadow: 0px 1px 10px rgb(250, 183, 17);
+    margin-top: 3%;
+    box-shadow: 0px 1px 10px #FAB711;
+    margin-bottom: 0.01%;
+    margin-left:-0.1% ;
   }
 
   /* bloc */
 
 #bloc{
+  
     margin-left: 10%;
     height:100%;
     width: 80%;
     background-color: rgba(0, 0, 0, 0.537);
     
 }
-p{
-    padding: 10%;
-    
+.titre{
+  display: flex;
+  width: 100%;
+  height: 50%;
+  background-image: url('items/VECTORIEL SVG/bande noir et jaune.svg');
+  background-attachment:scroll;
+  background-repeat: no-repeat;
+ background-size:auto;
+ margin-left: -1%;
+ margin-top: 5%;
+}
+h2{
+  padding-left:  3%;
+  padding-top: 3%;
+  font-size: 22px;
+  margin-bottom: 4%;
+  height: 50%;
+  color: white;
+}
+p{  
+    margin-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     color: white;
+    text-align: justify;
     
 }
-
+#musicolada{
+  
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+  border: 4px ridge #FAB711; 
+  box-shadow: 0px 1px 10px #000000;
+  margin-top: 10%;
+  
+}
 
 
 
@@ -232,7 +308,6 @@ p{
     width: 100%;
     height:100%;
     box-shadow: 0px -3px 8px black;
-
   }
   #navpiedpage{
     display:flex;
