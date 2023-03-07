@@ -157,21 +157,22 @@ header
     box-shadow: 0px 2px 8px black;
  }
 
-#phrase1 {
-color:#FFB711;
-background-color:#0000006c8f;
-text-shadow:2px 2px 2px #000000;
-font-size:xx-large ;
-display:flex;
-justify-content:center;
-}
-#phrase2 {
+ #phrase1 {
   color:#FFB711;
-  background-color:#0000006c8f;
+  background-color:#000000b4;
   text-shadow:2px 2px 2px #000000;
   font-size:xx-large ;
   display:flex;
   justify-content:center;
+  }
+  #phrase2 {
+    color:#FFB711;
+    background-color:#000000b4;
+    text-shadow:2px 2px 2px #000000;
+    font-size:xx-large ;
+    display:flex;
+    justify-content:center;
+    padding-left: 30%;
 
 }
 
@@ -292,10 +293,12 @@ h1 {
   border : solid rgba(96, 7, 104, 0.65);
   padding :5px;
   text-align: center;
-  width: 400%;;
-  height: 200%;
+  width: 100%;;
+  height: 50%;
   display: flex;
   justify-content: space-around;
+  flex-direction: column;
+  flex-wrap:wrap;
   margin-top: auto;
 }
 
