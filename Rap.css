@@ -3,11 +3,103 @@
     src: url(./items/Font/rubik-regular-webfont.woff2)format(woff2),
          url(./items/Font/rubik-regular-webfont.woff)format(woff);
             }
+
+
+            
 #couche1 
 {
      width:150px;
      z-index: 1;
 }
+
+.animated:hover {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  
+  
+  .animated.hinge:hover {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+  }
+  
+  /*the animation definition*/
+  
+  @-webkit-keyframes wobble {
+    0% {
+      -webkit-transform: none;
+      transform: none
+    }
+    15% {
+      -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+      transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+    }
+    30% {
+      -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+      transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+    }
+    45% {
+      -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+      transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+    }
+    60% {
+      -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+      transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+    }
+    75% {
+      -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+      transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+    }
+    100% {
+      -webkit-transform: none;
+      transform: none
+    }
+  }
+  
+  @keyframes wobble {
+    0% {
+      -webkit-transform: none;
+      -ms-transform: none;
+      transform: none
+    }
+    15% {
+      -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+      -ms-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+      transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+    }
+    30% {
+      -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+      -ms-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+      transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+    }
+    45% {
+      -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+      -ms-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+      transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+    }
+    60% {
+      -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+      -ms-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+      transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+    }
+    75% {
+      -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+      -ms-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+      transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+    }
+    100% {
+      -webkit-transform: none;
+      -ms-transform: none;
+      transform: none
+    }
+  }
+  
+  .wobble:hover {
+    -webkit-animation-name: wobble;
+    animation-name: wobble
+  }
                  
 #couche2 
 {   
@@ -30,7 +122,6 @@ header
 
 
 h1{
-    font-family: ;
     margin-left: 0;
     padding-left: 0;
     color: rebeccapurple;
@@ -54,7 +145,7 @@ font-size: 14px;
 }
 
 body{
-    font-family: ;
+    
     background-image: url(./items/Image/fond_rap.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -65,10 +156,11 @@ body{
     width: 100%;
     font-size: 35px;
     text-align: center;
-    color: purple;
+    color: rgba(30, 1, 31, 0.685);
     background-color: rgba(255, 255, 255, 0.699);
     margin-bottom: 50%;
     box-shadow: 20px 30px 10px;
+    border-radius: 5%;
 }
 
 
@@ -90,7 +182,7 @@ body{
 
 #test{
     display: flex;
-    margin-bottom: 30%;
+    margin-bottom: 10%;
    
 }
 
@@ -109,7 +201,6 @@ body{
   .menu_page{
     margin-top: 50px;
     margin-bottom: -8%;
-    background-color: rgba(253, 252, 253, 0.125);
 }
 .menu_page ul{
     display: flex;
@@ -187,4 +278,33 @@ footer{
   }
   .afooter{
     width: 35%;
+  }
+
+  .bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #c718eb90 50%, #d8ae18 50%);
+    bottom:0;
+    left:-50%;
+    opacity:20%;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+  }
+
+  .bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:5s;
+  }
+
+  .bg3 {
+    animation-duration:5s;
+  }
+  @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
   }
