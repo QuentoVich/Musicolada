@@ -12,6 +12,11 @@
     font-family: "Caslon-Semibold";
     src: url(./items/Font/F37Caslon-SemiBoldDisplay.otf);
 }
+
+@font-face{
+	font-family: 'Gilmer_Heavy';
+    src: url(./items/Font/Gilmer_Heavy.ttf);
+}
 /* Header*/
 
 *{
@@ -158,20 +163,34 @@ header
 
 
 h1{ 
-    font-family: "Caslon-Bold";
-    color:#ffffff;
-    font-size: 4em;
-    margin: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 5% 25% 10% 25%;
-    height: 100px;
-    background-color: rgba(0, 0, 0, 0.76);
-    border-radius: 30px;
-    box-shadow: 2px 2px 8px #FAB711;
+    font-family: 'Gilmer_Heavy';
+    color:#000000;
+    font-size: 4em;
+    height: 1000px;
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(30deg, #000000 , rgba(255,255,255,0));
+    transition: background-color 5s;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: -20px;
+    transition: 5s;
+    
     
 }
+
+h1:hover{
+  visibility: visible;
+  background-color: #FAB711;
+    color: #ffffff;
+    
+}
+
+
+
 .banner{
   margin-top: 5%;
   box-shadow: 0px 1px 10px #FAB711;
@@ -181,6 +200,9 @@ h1{
 h2
 {
     font-size: 40px;
+    text-align: center;
+    margin-bottom: 5%;
+  color: aliceblue;
 }
 
 
@@ -285,6 +307,30 @@ width:370px;
   padding: 0;
 }
 
+#imgreggae:hover{
+  box-shadow: 0px 3px 80px rgb(228, 92, 14);
+  border-radius: 90px;
+}
+
+#imgrap:hover{
+  box-shadow: 0px 3px 80px rgb(0, 255, 255);
+  border-radius: 90px;
+}
+
+#borderk-pop:hover{
+  box-shadow: 0px 3px 80px rgb(205, 4, 255);
+  border-radius: 90px;
+}
+
+#borderrock:hover{
+  box-shadow: 0px 3px 80px rgb(228, 92, 14);
+  border-radius: 90px;
+}
+
+#imgelectro:hover{
+  box-shadow: 0px 3px 100px rgb(88, 0, 252);
+  border-radius: 90px;
+}
 
 
 

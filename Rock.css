@@ -119,6 +119,49 @@ header
     box-shadow: 0px 3px 8px black;
 }
 
+nav{
+  width: 100%;
+  height:10%;
+}
+.menu_page{
+  margin-top: 50px;
+}
+.menu_page ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -6%;
+}
+
+.menu_page a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: 'Gilmer_Heavy';
+  color: rgb(0, 0, 0);
+  background: linear-gradient( #3a3a3a, #ffffff, #3a3a3a);
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 1.3em;
+  margin-left: 5%;
+  width: 90px;
+  transition: 1s;
+  box-shadow: 2px 2px 8px #000000;
+}
+
+.menu_page a:hover{
+  /* background-color: #ffb8116c; */
+  background: transparent;
+  color: #000000;
+  width: 120px;
+  border-radius: 40px;
+  box-shadow: 1px 1px 15px 10px #FFB711;
+
+
+}
+
 
 body
 {
@@ -162,11 +205,24 @@ body
     }
   }
 
+.rendrepossiblelimpossible
+{
+display: flex;
+}
+
+  .bananim
+{
+  width: 100%;
+  padding-top:100px;
+}
+
 h1
 {
+    width: 800px;
+    background-size: cover;
     background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
     background-repeat: no-repeat;
-    margin-top: -20px;
+    margin-top: 0px;
     margin-left: 7px;
     font-size: 150px;
     color: rgb(221, 218, 218);
@@ -178,7 +234,7 @@ h1
 {   
     padding: 50px;
     width: 25%;
-    margin-top: 150px;
+    margin-top: 50px;
     margin-left: 66.5%;
     font-size: 23px;
     text-align: justify;

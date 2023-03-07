@@ -158,21 +158,22 @@ header
  }
 
  #phrase1 {
+color:#FFB711;
+background-color:#000000b4;
+text-shadow:2px 2px 2px #000000;
+font-size:xx-large ;
+display:flex;
+justify-content:center;
+}
+
+#phrase2 {
   color:#FFB711;
   background-color:#000000b4;
   text-shadow:2px 2px 2px #000000;
   font-size:xx-large ;
   display:flex;
   justify-content:center;
-  }
-  #phrase2 {
-    color:#FFB711;
-    background-color:#000000b4;
-    text-shadow:2px 2px 2px #000000;
-    font-size:xx-large ;
-    display:flex;
-    justify-content:center;
-    padding-left: 30%;
+  padding-left: 30%;
 
 }
 
@@ -258,37 +259,48 @@ h1 {
 
 #VideoTexte {
   /* background-color:gold; */
-  display: flex;
-  margin-right: 80px;
-  margin-left: 50px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  width: 100%;
+  height:1000px;
+  margin-bottom: 20%;
+  
+
+
 
 }
 
 #extraitVideo {
-  padding: 50px;
-  margin-top: 50px;
-  padding-left: 50px;  
+  /* background-color: aqua; */
+  width: 50%;
+  margin-right:1%; 
+  margin-left: 2%;
+  
 }
-
+.media{
+  display: flex;
+  justify-content: flex-end;
+  /* background-color: blue; */
+  height: 100%;
+  
+}
 #vidéo {
-  padding:5px ;
   border : solid #0EF1FF; 
   border-radius: 10px;
+  /* background-color: coral; */
+  margin-bottom: 5%;
 }
 
 
 #photosGroupes{
   display: flex;
-  /* background-color:darkblue; */
-  margin-top: 30px;
-}
+  /* background-color:rgb(0, 139, 14); */
+  width: 49%;
+  position:absolute;
+  z-index: 1;
+  }
 
 
 .image1 {
-  font-family:'berkshire_swashregular';
-  color:whitesmoke;
+ 
   border-radius: 10px;
   border : solid rgba(96, 7, 104, 0.65);
   padding :5px;
@@ -302,20 +314,56 @@ h1 {
   margin-top: auto;
 }
 
+.t{
+  font-family:'berkshire_swashregular';
+  font-size: 150%;
+  color:whitesmoke;
+  border-radius: 9px;
+  text-shadow: 2px 2px 2px #000000;
+}
 
 .mini {
- width:50%;
- height:25%;
+ width:100%;
+ height:15%;
  transition: 3s;
+ border-radius: 9px;
 }
 
 .mini:hover {
   width: 200% ;
   height:auto ;
   border : solid rgba(96, 7, 104, 0.65);
+  
+}
+.row1{
+  position: relative;
+  width: 50%;
+  /* background-color: oldlace; */
+  z-index: 1;
+}
+.row2{
+  position:relative;
+  width: 50%;
+  /* background-color: #000000; */
+  z-index: 0;
+}
+.imgG{
+  margin-bottom: 2%;
+  width: 100%;
+  text-align: center;
+
+}
+.imgD{
+  margin-bottom: 2%;
+  width: 100%;
+  text-align: center;
+
 }
 
 .texteKpop {
+    padding-top: 15%;
+    padding-right:1%;
+    padding-left:1%;
     font-family:'berkshire_swashregular';
     background-color: rgba(96, 7, 104, 0.65);
     font-size :large;
@@ -324,10 +372,14 @@ h1 {
     text-align: center;
     border-radius: 10px;
     border : solid rgba(96, 7, 104, 0.65);
-    margin-right: 100px;
-    margin-left: 250px;
-    padding: 20px;
-  }
+    width: 45%;
+    margin-right: 2%;
+    position: relative;
+    z-index: 0;
+  
+   
+   
+}
 
 /* class casque son */
 .casqueSon {
