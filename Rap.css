@@ -3,6 +3,9 @@
     src: url(./items/Font/rubik-regular-webfont.woff2)format(woff2),
          url(./items/Font/rubik-regular-webfont.woff)format(woff);
             }
+
+
+            
 #couche1 
 {
      width:150px;
@@ -90,7 +93,7 @@ body{
 
 #test{
     display: flex;
-    margin-bottom: 30%;
+    margin-bottom: 10%;
    
 }
 
@@ -109,7 +112,6 @@ body{
   .menu_page{
     margin-top: 50px;
     margin-bottom: -8%;
-    background-color: rgba(253, 252, 253, 0.125);
 }
 .menu_page ul{
     display: flex;
@@ -187,4 +189,33 @@ footer{
   }
   .afooter{
     width: 35%;
+  }
+
+  .bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #c718eb90 50%, #d8ae18 50%);
+    bottom:0;
+    left:-50%;
+    opacity:20%;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+  }
+
+  .bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:5s;
+  }
+
+  .bg3 {
+    animation-duration:5s;
+  }
+  @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
   }
