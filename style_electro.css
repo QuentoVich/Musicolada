@@ -271,6 +271,14 @@ color: aliceblue;
     text-align: justify;
     margin-right: 5%;
     margin-left: auto;
+    transition: 1s;
+}
+
+.historique:hover{
+  font-family: 'Gilmer_Light';
+  background-color: #fff9ec(0, 0, 0, 0.486);
+  color: #000000;
+  box-shadow: 1px 1px 15px 20px #FFB711;
 }
 
 
