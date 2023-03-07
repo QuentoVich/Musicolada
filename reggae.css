@@ -202,7 +202,7 @@ body{
 }
   .menu_page{
     margin-top: 50px;
-    margin-bottom: -8%;
+    /* margin-bottom: -8%; */
 }
 .menu_page ul{
     display: flex;
@@ -564,7 +564,7 @@ footer{
   background-size: cover;
   width: 100.07%;
   box-shadow: 0px -3px 8px black;
-  margin-top: 42%;
+  margin-top:60%;
 }
 #navpiedpage{
   display:flex;
