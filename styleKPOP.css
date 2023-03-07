@@ -155,8 +155,26 @@ header
     background-color: white;
     height: 5px;
     box-shadow: 0px 2px 8px black;
+ }
 
-  }
+#phrase1 {
+color:#FFB711;
+background-color:#0000006c8f;
+text-shadow:2px 2px 2px #000000;
+font-size:xx-large ;
+display:flex;
+justify-content:center;
+}
+#phrase2 {
+  color:#FFB711;
+  background-color:#0000006c8f;
+  text-shadow:2px 2px 2px #000000;
+  font-size:xx-large ;
+  display:flex;
+  justify-content:center;
+
+}
+
 #bannerKPOP {
   padding-top:5px;
   padding-bottom:20px;
@@ -236,8 +254,9 @@ h1 {
       
 }
 /* partie vidéo, photos et texte */
+
 #VideoTexte {
-  background-color:gold;
+  /* background-color:gold; */
   display: flex;
   margin-right: 80px;
   margin-left: 50px;
@@ -261,13 +280,14 @@ h1 {
 
 #photosGroupes{
   display: flex;
-  background-color:darkblue;
+  /* background-color:darkblue; */
   margin-top: 30px;
 }
 
 
 .image1 {
   font-family:'berkshire_swashregular';
+  color:whitesmoke;
   border-radius: 10px;
   border : solid rgba(96, 7, 104, 0.65);
   padding :5px;
