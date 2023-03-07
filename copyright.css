@@ -203,7 +203,6 @@ body{
 }
   .menu_page{
     margin-top: 50px;
-    margin-bottom: -8%;
 }
 .menu_page ul{
     display: flex;
@@ -245,7 +244,7 @@ body{
   /* fin fond animé */
   
   .banner{
-    margin-top: 12%;
+    margin-top: 3%;
     box-shadow: 0px 1px 10px #FAB711;
     margin-bottom: 0.01%;
     margin-left:-0.1% ;
@@ -258,7 +257,6 @@ body{
     margin-left: 10%;
     height:100%;
     width: 80%;
-    
     background-color: rgba(0, 0, 0, 0.537);
     
 }
