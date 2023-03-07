@@ -205,6 +205,11 @@ body
     }
   }
 
+.rendrepossiblelimpossible
+{
+display: flex;+
+}
+
   .bananim
 {
   width: 100%;
@@ -213,6 +218,8 @@ body
 
 h1
 {
+    width: 800px;
+    background-size: cover;
     background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
     background-repeat: no-repeat;
     margin-top: 0px;
