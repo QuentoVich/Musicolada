@@ -116,7 +116,7 @@ header
     background-size: cover;
     background-repeat: no-repeat;
     height: 200px;
-    box-shadow: 0px 3px 8px black;
+    box-shadow: 0px 3px 20px 5px #fab711;
 }
 
 nav{
@@ -246,7 +246,7 @@ hr{ border: 1px solid #fab711;
     background-color: rgba(0, 0, 0, 0.76);
     border: 2px solid #020202;
     border-radius: 20px;
-    box-shadow: 0px 6px 30px 5px #fab711;
+    box-shadow: 0px 6px 20px 3px #fab711;
     
 }
 
@@ -272,7 +272,7 @@ hr{ border: 1px solid #fab711;
 {
     
    
-    box-shadow: 0px 6px 30px 5px #fab711;
+    box-shadow: 0px 6px 30px 3px #fab711;
     border-radius: 20px;
     background-color: #020202;
 
@@ -283,7 +283,7 @@ hr{ border: 1px solid #fab711;
     margin-top: 10px;
     margin-bottom: 50px;
     padding-top: 5px;
-    box-shadow: 0px 6px 30px 5px #fab711;
+    box-shadow: 0px 6px 30px 3px #fab711;
     border-radius: 20px;
 }
 
@@ -376,7 +376,7 @@ transform-origin: 50% 200%;
   height: auto;
   width: 800px;
   padding-top:0px;
-  box-shadow: 0px 0px 50px 10px #fab711;
+  box-shadow: 0px 0px 30px 1px #fab711;
   border-radius: 500px;
   
 }
