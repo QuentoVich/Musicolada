@@ -150,7 +150,7 @@ nav{
   width: 150px;
   min-height: 40px;
   transition: 1s;
-  box-shadow: 2px 2px 8px #000000;
+  box-shadow: 2px 2px 15px 3px #fab711;
 }
 
 .menu_page a:hover{
@@ -280,6 +280,8 @@ hr{ border: 1px solid #fab711;
 
 .Extrait-Musical
 {
+    margin-top: 10px;
+    margin-bottom: 50px;
     padding-top: 5px;
     box-shadow: 0px 6px 30px 5px #fab711;
     border-radius: 20px;
@@ -291,8 +293,8 @@ hr{ border: 1px solid #fab711;
   display: flex;
   margin-top: 4%;
   margin-bottom: 2%;
-  width: 98%;
-  margin-left: 1%; 
+  width: 96%;
+  margin-left: 2%; 
 }
 
 #casque{
@@ -372,7 +374,7 @@ transform-origin: 50% 200%;
 {
   width: 100%;
   padding-top:0px;
-  box-shadow: 0px 0px 100px 10px #fab711;
+  box-shadow: 0px 0px 50px 10px #fab711;
   
 }
 
