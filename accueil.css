@@ -169,13 +169,13 @@ h1{
     font-family: 'Gilmer_Heavy';
     color:#000000;
     font-size: 4em;
-    height: 1000px;
+    height: 700px;
     background-color: rgb(0, 0, 0);
     background-image: linear-gradient(30deg, #000000 , rgba(255,255,255,0));
     transition: background-color 5s;
     background-size: cover;
     text-align: center;
-    margin-bottom: 5%;
+    margin-bottom: 0;
     margin-top: -20px;
     transition: 5s;
     
@@ -199,10 +199,17 @@ h1:hover{
 
 h2
 {
+  font-family: 'Gilmer_Heavy';
     font-size: 40px;
-    text-align: center;
-    margin-bottom: 5%;
+    text-align: center; 
   color: aliceblue;
+  font-size: 6em;
+  background: rgb(0,0,0);
+  background: linear-gradient(115deg, rgba(0,0,0,0.42) 0%, rgba(250,183,17,1) 60%, rgba(0,0,0,0.4150035014005602) 100%);
+  margin-top: 0;
+  margin-bottom: 10%;
+  padding: 20px;
+  border-radius: 0 0 40px 40px;
 }
 
 
@@ -365,7 +372,31 @@ align-items: center;
 #retourhaut{
   height: 60px;
   width: 60px;
+transition: 1s;
+}
 
+.copyright{
+  font-family: 'Gilmer_Heavy';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  background: white;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 1.5em;
+  width: 120px;
+  margin: 3% auto;
+ transition: 1s;
+  text-decoration: none;
+}
+  
+.copyright:hover{
+  background-color: #ffb8116c;
+  color: white;
+  width: 150px;
+  border-radius: 40px;
+  box-shadow: 1px 1px 15px 10px #FFB711;
 }
 
 #texteretour{
