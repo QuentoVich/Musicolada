@@ -216,10 +216,20 @@ h1
     background-size: cover;
     background-image: url("./items/VECTORIEL\ SVG/bande noir et jaune.svg");
     background-repeat: no-repeat;
-    margin-top: 0px;
+    margin-top: 35px;
     margin-left: 7px;
     font-size: 150px;
-    color: rgb(221, 218, 218);      
+    color: rgb(216, 216, 216); 
+    box-shadow: #fab711;     
+}
+
+hr{ border: 1px solid #fab711; 
+  border-radius: 30px;
+  background-color: black;
+  height: 10px;
+  margin-left: 1%;
+  margin-right: 1%;
+  box-shadow: 0px 6px 30px 5px #fab711;
 }
 
 .Histoire-Du-Rock
@@ -227,30 +237,49 @@ h1
     padding: 50px;
     width: 25%;
     margin-top: 50px;
-    margin-left: 59.2%;
+    margin-left: 35%;
     font-size: 23px;
     text-align: justify;
     color: rgb(212, 206, 206);
     background-color: rgba(0, 0, 0, 0.76);
     border: 2px solid #020202;
     border-radius: 20px;
-    box-shadow: 0px 6px 10px 5px #fab711;
+    box-shadow: 0px 6px 30px 5px #fab711;
     
+}
+
+#video
+{  
+  margin-top: 90px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   
+}
+
+#tofvideo
+{
+  margin-left: 3%;
+  margin-right: 3%;
+
+
+   
 }
 
 .Extrait-Video
 {
-    margin-top: 50px;
-    margin-left: 57%;
-    box-shadow: 0px 6px 10px 5px #fab711;
+    
+   
+    box-shadow: 0px 6px 30px 5px #fab711;
     border-radius: 20px;
     background-color: #020202;
+
 }
 
 .Extrait-Musical
 {
     padding-top: 5px;
-    box-shadow: 0px 6px 10px 5px #fab711;
+    box-shadow: 0px 6px 30px 5px #fab711;
     border-radius: 20px;
 }
 
@@ -260,14 +289,14 @@ h1
   display: flex;
   margin-top: 4%;
   margin-bottom: 2%;
-  margin-left: -1%;
-  width: 100%;
+  width: 98%;
+  margin-left: 1%; 
 }
 
 #casque{
   justify-content: center;
   display: flex;
-  margin-right: 5%;
+  margin-right: 0.5%;
   width: 12%;
 }
 .shape {
@@ -341,6 +370,8 @@ transform-origin: 50% 200%;
 {
   width: 100%;
   padding-top:0px;
+  box-shadow: 0px 0px 100px 10px #fab711;
+  
 }
 
 footer{
@@ -349,7 +380,7 @@ footer{
     background-size: cover;
     width: 100%;
     height:100%;
-    box-shadow: 0px -3px 24px #fab711;
+    box-shadow: 0px 6px 10px 10px #fab711;
     margin-top: 4%;
   }
   #navpiedpage{
