@@ -20,6 +20,14 @@
   font-style: normal;
           }
 
+ @font-face {
+    font-family: 'adeliaregular';
+    src: url(./items/Font/adelia-webfont.woff2) format('woff2'),
+         url(./items/Font/adelia-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;}
+                 
+
 /* Header*/
 
 *{
@@ -157,22 +165,27 @@ header
     box-shadow: 0px 2px 8px black;
  }
 
-#phrase1 {
+ #phrase1 {
 color:#FFB711;
 background-color:#000000b4;
 text-shadow:2px 2px 2px #000000;
+font-family: 'adeliaregular';
 font-size:xx-large ;
 display:flex;
 justify-content:center;
+padding-top: 3%;
 }
+
 #phrase2 {
   color:#FFB711;
   background-color:#000000b4;
   text-shadow:2px 2px 2px #000000;
+  font-family: 'adeliaregular';
   font-size:xx-large ;
   display:flex;
   justify-content:center;
   padding-left: 30%;
+  padding-bottom:3%;
 
 }
 
@@ -256,6 +269,11 @@ h1 {
 }
 /* partie vidéo, photos et texte */
 
+#titreKpop {
+  margin-bottom: 5%;
+}
+
+
 #VideoTexte {
   /* background-color:gold; */
   width: 100%;
@@ -302,6 +320,15 @@ h1 {
  
   border-radius: 10px;
   border : solid rgba(96, 7, 104, 0.65);
+  padding :5px;
+  text-align: center;
+  width: 100%;;
+  height: 50%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  flex-wrap:wrap;
+  margin-top: auto;
 }
 
 .t{
@@ -372,23 +399,52 @@ h1 {
 }
 
 /* class casque son */
-.casqueSon {
-  background-color:red;
-  margin-left:50px;
-  margin-right:80px;
-  display: flex;
-  
+
+.casque0 { 
+ /* background-color:#000000; */
+ display:flex;
+ justify-content: space-around;
+ margin-left: 2%;
+ margin-right:2%;
+ margin-bottom: 5%; 
+ background-color: #00000056;
+ border-radius: 30px;
+
 }
-#barreSon {
-  border-radius: 20px;  
+#textmusic {
+  font-family:'berkshire_swashregular';
+  color:#FAB711;
+  text-shadow: whitesmoke;
+  font-size: xx-large;
+  text-decoration : underline;
+  margin-top: 2%;
 }
 
-#son{
-  margin: 50px;
-  width: 20%;
-  height: auto;
-  margin-left: 20%;
-  margin-right: 20%;
+.casqueSon {
+  /* background-color:red; */
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  margin-bottom: 80px; 
+  margin-right: 2%;
+  margin-left: 2%;   
+}
+
+#son1 {
+  border-radius: 30px; 
+  box-shadow:0px 12px 20px 7px #000000;  
+}
+#son2 {
+  border-radius: 30px;
+  box-shadow: 0px 12px 20px 7px #000000;
+}
+#son3 {
+  border-radius:30px;
+  box-shadow:0px 12px 20px 7px #000000; 
+}
+#son4 {
+  border-radius:30px;
+  box-shadow:0px 12px 20px 7px #000000;
 }
 
 /* flèche retour en haut */
