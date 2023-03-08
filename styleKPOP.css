@@ -20,6 +20,14 @@
   font-style: normal;
           }
 
+ @font-face {
+    font-family: 'adeliaregular';
+    src: url(./items/Font/adelia-webfont.woff2) format('woff2'),
+         url(./items/Font/adelia-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;}
+                 
+
 /* Header*/
 
 *{
@@ -161,19 +169,23 @@ header
 color:#FFB711;
 background-color:#000000b4;
 text-shadow:2px 2px 2px #000000;
+font-family: 'adeliaregular';
 font-size:xx-large ;
 display:flex;
 justify-content:center;
+padding-top: 3%;
 }
 
 #phrase2 {
   color:#FFB711;
   background-color:#000000b4;
   text-shadow:2px 2px 2px #000000;
+  font-family: 'adeliaregular';
   font-size:xx-large ;
   display:flex;
   justify-content:center;
   padding-left: 30%;
+  padding-bottom:3%;
 
 }
 
@@ -256,6 +268,11 @@ h1 {
       
 }
 /* partie vidéo, photos et texte */
+
+#titreKpop {
+  margin-bottom: 5%;
+}
+
 
 #VideoTexte {
   /* background-color:gold; */
@@ -382,18 +399,53 @@ h1 {
 }
 
 /* class casque son */
-.casqueSon {
-  /* background-color:red; */
-  margin-left:50px;
-  margin-right:80px;  
+
+.casque0 { 
+ /* background-color:#000000; */
+ display:flex;
+ justify-content: space-around;
+ margin-left: 2%;
+ margin-right:2%;
+ margin-bottom: 5%; 
+ background-color: #00000056;
+ border-radius: 30px;
+
 }
-#Son {
-  border-radius: 20px; 
-  box-shadow:0px 12px 20px 7px#000000;
-  display: flex;
-  justify-content: center;
+#textmusic {
+  font-family:'berkshire_swashregular';
+  color:#FAB711;
+  text-shadow: whitesmoke;
+  font-size: xx-large;
+  text-decoration : underline;
+  margin-top: 2%;
 }
 
+.casqueSon {
+  /* background-color:red; */
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  margin-bottom: 80px; 
+  margin-right: 2%;
+  margin-left: 2%;   
+}
+
+#son1 {
+  border-radius: 30px; 
+  box-shadow:0px 12px 20px 7px #000000;  
+}
+#son2 {
+  border-radius: 30px;
+  box-shadow: 0px 12px 20px 7px #000000;
+}
+#son3 {
+  border-radius:30px;
+  box-shadow:0px 12px 20px 7px #000000; 
+}
+#son4 {
+  border-radius:30px;
+  box-shadow:0px 12px 20px 7px #000000;
+}
 
 /* flèche retour en haut */
 #fleche{
