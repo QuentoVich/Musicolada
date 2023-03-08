@@ -372,9 +372,12 @@ transform-origin: 50% 200%;
 
 .bananim
 {
-  width: 100%;
+  margin-left: 29%;
+  height: auto;
+  width: 800px;
   padding-top:0px;
   box-shadow: 0px 0px 50px 10px #fab711;
+  border-radius: 500px;
   
 }
 
