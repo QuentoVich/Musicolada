@@ -150,7 +150,7 @@ nav{
   width: 150px;
   min-height: 40px;
   transition: 1s;
-  box-shadow: 2px 2px 15px 3px #fab711;
+  box-shadow: 1px 1px 10px 3px #fab711;
 }
 
 .menu_page a:hover{
@@ -225,28 +225,21 @@ h1
     box-shadow: #fab711;     
 }
 
-hr{ border: 1px solid #fab711; 
-  border-radius: 30px;
-  background-color: black;
-  height: 10px;
-  margin-left: 1%;
-  margin-right: 1%;
-  box-shadow: 0px 6px 30px 5px #fab711;
-}
+
 
 .Histoire-Du-Rock
 {   
     padding: 50px;
-    width: 25%;
+    width: 45%;
     margin-top: 50px;
-    margin-left: 35%;
+    margin-left: 26%;
     font-size: 23px;
     text-align: justify;
     color: rgb(212, 206, 206);
     background-color: rgba(0, 0, 0, 0.76);
     border: 2px solid #020202;
     border-radius: 20px;
-    box-shadow: 0px 6px 20px 3px #fab711;
+    box-shadow: 0px 3px 20px 3px #fab711;
     
 }
 
@@ -272,7 +265,7 @@ hr{ border: 1px solid #fab711;
 {
     
    
-    box-shadow: 0px 6px 30px 3px #fab711;
+    box-shadow: 0px 6px 20px 3px #fab711;
     border-radius: 20px;
     background-color: #020202;
 
@@ -283,7 +276,7 @@ hr{ border: 1px solid #fab711;
     margin-top: 10px;
     margin-bottom: 50px;
     padding-top: 5px;
-    box-shadow: 0px 6px 30px 3px #fab711;
+    box-shadow: 0px 6px 20px 3px #fab711;
     border-radius: 20px;
 }
 
@@ -372,11 +365,11 @@ transform-origin: 50% 200%;
 
 .bananim
 {
-  margin-left: 29%;
+  margin-left: 30%;
   height: auto;
   width: 800px;
   padding-top:0px;
-  box-shadow: 0px 0px 30px 1px #fab711;
+  box-shadow: 0px 0px 20px 0px #fab711;
   border-radius: 500px;
   
 }
