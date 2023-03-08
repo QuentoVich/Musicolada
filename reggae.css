@@ -397,7 +397,7 @@ section{
     margin-left: 1%;
 
   margin-top: 10%;
-    transform: translateY(-50%);
+    /* transform: translateY(-50%); */
     background:linear-gradient(-90deg,#0000005e , #ffffff59,#0000005e);
     border:3px solid #fab81187;
     border-radius: 20px;
