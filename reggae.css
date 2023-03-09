@@ -505,7 +505,33 @@ p{
     text-align: center;
 }
 
-
+.lien1{
+  color:red;
+  text-decoration:none;
+}
+.lien1:hover{
+  font-size: 40px;
+  text-decoration:none;
+  font-family: "Caslon-Bold";
+}
+.lien2{
+  color:yellow;
+  text-decoration:none;
+}
+.lien2:hover{
+  font-size: 40px;
+  text-decoration:none;
+  font-family: "Caslon-Bold";
+}
+.lien3{
+  color:green;
+  text-decoration:none;
+}
+.lien3:hover{
+  font-size: 40px;
+  text-decoration:none;
+  font-family: "Caslon-Bold";
+}
 /* logo play */
 #play{ 
     position: absolute;
