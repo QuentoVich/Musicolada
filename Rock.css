@@ -141,7 +141,7 @@ nav{
   list-style-type: none;
   text-decoration: none;
   font-family: 'Gilmer_Heavy';
-  color: rgb(0, 0, 0);
+  color: rgb(3, 3, 3);
   background: linear-gradient( #3a3a3a, #ffffff, #3a3a3a);
   border-radius: 25px;
   padding: 10px;
@@ -156,7 +156,7 @@ nav{
 .menu_page a:hover{
   /* background-color: #ffb8116c; */
   background: transparent;
-  color: #000000;
+  color: #fcfcfc;
   width: 200px;
   border-radius: 40px;
   box-shadow: 1px 1px 15px 10px #FFB711;
