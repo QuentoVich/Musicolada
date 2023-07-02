@@ -14,5 +14,5 @@ jobs:
     - name: Build the Docker image
       run: |
         ls
-        docker build -t Musicolada:$(date +%s) .
+        docker build -t musicolada:$(date +%s) .
       
