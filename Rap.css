@@ -326,3 +326,8 @@ footer{
       transform:translateX(25%);
     }
   }
+
+
+  body{
+    color : red; 
+  }
