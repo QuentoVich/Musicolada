@@ -145,7 +145,7 @@ header
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: white;
     background-image: url('./items/VECTORIEL SVG/header.svg');
     background-size: cover;
     background-repeat: no-repeat;
